@@ -1,0 +1,658 @@
+{
+ "content": [
+  {
+   "id": "80682",
+   "isValid": "",
+   "prompt": "Versuche {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80683",
+   "isValid": "",
+   "prompt": "Reite {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80684",
+   "isValid": "",
+   "prompt": "Hol dir {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80685",
+   "isValid": "",
+   "prompt": "Niemals {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80686",
+   "isValid": "",
+   "prompt": "Zeit für {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80687",
+   "isValid": "",
+   "prompt": "Immer {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80688",
+   "isValid": "",
+   "prompt": "Vergiss {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80689",
+   "isValid": "",
+   "prompt": "Macht Platz für {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80690",
+   "isValid": "",
+   "prompt": "Riecht {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80691",
+   "isValid": "",
+   "prompt": "{{BLANK}} es.",
+   "x": false
+  },
+  {
+   "id": "80692",
+   "isValid": "",
+   "prompt": "Du bist {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80693",
+   "isValid": "",
+   "prompt": "Gönn dir {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80694",
+   "isValid": "",
+   "prompt": "Nutze {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80695",
+   "isValid": "",
+   "prompt": "Ergreife {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80696",
+   "isValid": "",
+   "prompt": "Werde {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80697",
+   "isValid": "",
+   "prompt": "Neu: {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80698",
+   "isValid": "",
+   "prompt": "Kümmere dich um {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80699",
+   "isValid": "",
+   "prompt": "Denk an {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80700",
+   "isValid": "",
+   "prompt": "Hör auf mit {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80701",
+   "isValid": "",
+   "prompt": "Schnapp dir {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80702",
+   "isValid": "",
+   "prompt": "Keine Angst vor {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80703",
+   "isValid": "",
+   "prompt": "Frag nach {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80704",
+   "isValid": "",
+   "prompt": "Einfach nur {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80705",
+   "isValid": "",
+   "prompt": "Beende {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80707",
+   "isValid": "",
+   "prompt": "{{BLANK}} ist möglich.",
+   "x": false
+  },
+  {
+   "id": "80708",
+   "isValid": "",
+   "prompt": "Erfolg ist {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80710",
+   "isValid": "",
+   "prompt": "Denke für {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80711",
+   "isValid": "",
+   "prompt": "Es gibt kein {{BLANK}} in TEAM.",
+   "x": false
+  },
+  {
+   "id": "80712",
+   "isValid": "",
+   "prompt": "Ausdauer ist {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80713",
+   "isValid": "",
+   "prompt": "Erhebe {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80714",
+   "isValid": "",
+   "prompt": "Behalte {{BLANK}} bei.",
+   "x": false
+  },
+  {
+   "id": "80715",
+   "isValid": "",
+   "prompt": "Ist doch nur {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80716",
+   "isValid": "",
+   "prompt": "{{BLANK}} ist alles.",
+   "x": false
+  },
+  {
+   "id": "80717",
+   "isValid": "",
+   "prompt": "Sei stärker als {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80718",
+   "isValid": "",
+   "prompt": "Verstärke {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "80719",
+   "isValid": "",
+   "prompt": "Wenn du hier bist, bist du {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82637",
+   "isValid": "",
+   "prompt": "Greife nach {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82638",
+   "isValid": "",
+   "prompt": "Tritt {{BLANK}} bei.",
+   "x": false
+  },
+  {
+   "id": "82639",
+   "isValid": "",
+   "prompt": "{{BLANK}} hat Recht.",
+   "x": false
+  },
+  {
+   "id": "82640",
+   "isValid": "",
+   "prompt": "Eine Welt, ein {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82641",
+   "isValid": "",
+   "prompt": "Sei {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82643",
+   "isValid": "",
+   "prompt": "{{BLANK}} ist ein Geschenk.",
+   "x": false
+  },
+  {
+   "id": "82644",
+   "isValid": "",
+   "prompt": "Unterstütze {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82795",
+   "isValid": "",
+   "prompt": "Mach {{BLANK}} möglich.",
+   "x": false
+  },
+  {
+   "id": "82796",
+   "isValid": "",
+   "prompt": "Wag {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82797",
+   "isValid": "",
+   "prompt": "{{BLANK}} ist eine Reise.",
+   "x": false
+  },
+  {
+   "id": "82798",
+   "isValid": "",
+   "prompt": "No pain, no {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82799",
+   "isValid": "",
+   "prompt": "{{BLANK}} erleuchtet uns.",
+   "x": false
+  },
+  {
+   "id": "82800",
+   "isValid": "",
+   "prompt": "Wir müssen durch {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82801",
+   "isValid": "",
+   "prompt": "Mut ist {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82804",
+   "isValid": "",
+   "prompt": "Erfolg ist eine {{BLANK}} Geschichte.",
+   "x": false
+  },
+  {
+   "id": "82859",
+   "isValid": "",
+   "prompt": "Erwecke dein {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82860",
+   "isValid": "",
+   "prompt": "Ernte {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82861",
+   "isValid": "",
+   "prompt": "Du brauchst {{BLANK}} in deinem Tag.",
+   "x": false
+  },
+  {
+   "id": "82862",
+   "isValid": "",
+   "prompt": "Genau hier, genau {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82863",
+   "isValid": "",
+   "prompt": "Sei {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82865",
+   "isValid": "",
+   "prompt": "Greife {{BLANK}} an.",
+   "x": false
+  },
+  {
+   "id": "82867",
+   "isValid": "",
+   "prompt": "Ändere {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82868",
+   "isValid": "",
+   "prompt": "Zusammenarbeit ist {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "82870",
+   "isValid": "",
+   "prompt": "Werd nicht sauer, werd {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83383",
+   "isValid": "",
+   "prompt": "{{BLANK}} da rein, Bruder.",
+   "x": false
+  },
+  {
+   "id": "83384",
+   "isValid": "",
+   "prompt": "{{BLANK}} hält nicht lange.",
+   "x": false
+  },
+  {
+   "id": "83385",
+   "isValid": "",
+   "prompt": "{{BLANK}} als wärst du alleine.",
+   "x": false
+  },
+  {
+   "id": "83386",
+   "isValid": "",
+   "prompt": "Greife nach {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83387",
+   "isValid": "",
+   "prompt": "Drücke immer {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83388",
+   "isValid": "",
+   "prompt": "Bleib {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83389",
+   "isValid": "",
+   "prompt": "Steige auf und {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83390",
+   "isValid": "",
+   "prompt": "{{BLANK}} hart, jeden Tag.",
+   "x": false
+  },
+  {
+   "id": "83392",
+   "isValid": "",
+   "prompt": "Lebe. Atme. {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83393",
+   "isValid": "",
+   "prompt": "Es gibt {{BLANK}} nicht.",
+   "x": false
+  },
+  {
+   "id": "83395",
+   "isValid": "",
+   "prompt": "Hol dir {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83396",
+   "isValid": "",
+   "prompt": "Niemals mit {{BLANK}} aufhören.",
+   "x": false
+  },
+  {
+   "id": "83397",
+   "isValid": "",
+   "prompt": "Immer weiter {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "83398",
+   "isValid": "",
+   "prompt": "Achzig Prozent des Erfolges ist {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84036",
+   "isValid": "",
+   "prompt": "{{BLANK}} ist der Schlüssel.",
+   "x": false
+  },
+  {
+   "id": "84038",
+   "isValid": "",
+   "prompt": "{{BLANK}} ist für Gewinner.",
+   "x": false
+  },
+  {
+   "id": "84039",
+   "isValid": "",
+   "prompt": "Die Stärke liegt in {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84045",
+   "isValid": "",
+   "prompt": "Vergiss nie {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84048",
+   "isValid": "",
+   "prompt": "Lerne von {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84049",
+   "isValid": "",
+   "prompt": "Das Leben ist mehr als nur {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84050",
+   "isValid": "",
+   "prompt": "Hör auf dein {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84052",
+   "isValid": "",
+   "prompt": "{{BLANK}} dich selbst.",
+   "x": false
+  },
+  {
+   "id": "84054",
+   "isValid": "",
+   "prompt": "{{BLANK}} kann Felsen bewegen.",
+   "x": false
+  },
+  {
+   "id": "84165",
+   "isValid": "",
+   "prompt": "Lass {{BLANK}} zu.",
+   "x": false
+  },
+  {
+   "id": "84166",
+   "isValid": "",
+   "prompt": "{{BLANK}} kann dir nichts anhaben.",
+   "x": false
+  },
+  {
+   "id": "84167",
+   "isValid": "",
+   "prompt": "{{BLANK}} macht alles richtig.",
+   "x": false
+  },
+  {
+   "id": "84173",
+   "isValid": "",
+   "prompt": "Jeder {{BLANK}} zählt.",
+   "x": false
+  },
+  {
+   "id": "84174",
+   "isValid": "",
+   "prompt": "{{BLANK}} ist magisch.",
+   "x": false
+  },
+  {
+   "id": "84186",
+   "isValid": "",
+   "prompt": "Finde dein {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84190",
+   "isValid": "",
+   "prompt": "Auf die Plätze, fertig, {{BLANK}}!",
+   "x": false
+  },
+  {
+   "id": "84193",
+   "isValid": "",
+   "prompt": "Keine Ausreden. Nur {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84197",
+   "isValid": "",
+   "prompt": "Der frühe Vogel fängt {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84328",
+   "isValid": "",
+   "prompt": "Strebe nach {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84341",
+   "isValid": "",
+   "prompt": "Arbeite hart. {{BLANK}} viel.",
+   "x": false
+  },
+  {
+   "id": "84342",
+   "isValid": "",
+   "prompt": "Mit {{BLANK}} gewinnt man.",
+   "x": false
+  },
+  {
+   "id": "84839",
+   "isValid": "",
+   "prompt": "Es geht nur um {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84843",
+   "isValid": "",
+   "prompt": "Einfach nur {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84845",
+   "isValid": "",
+   "prompt": "Bezwinge dein {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84847",
+   "isValid": "",
+   "prompt": "Taten sind wichtiger als {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84848",
+   "isValid": "",
+   "prompt": "{{BLANK}} ist Erfolg.",
+   "x": false
+  },
+  {
+   "id": "84850",
+   "isValid": "",
+   "prompt": "{{BLANK}} ist Geld.",
+   "x": false
+  },
+  {
+   "id": "84853",
+   "isValid": "",
+   "prompt": "Sei besser als {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84857",
+   "isValid": "",
+   "prompt": "{{BLANK}} ist eine Einstellung.",
+   "x": false
+  },
+  {
+   "id": "84863",
+   "isValid": "",
+   "prompt": "Träum gross. {{BLANK}} grösser.",
+   "x": false
+  },
+  {
+   "id": "84866",
+   "isValid": "",
+   "prompt": "Ein {{BLANK}} gleichzeitig.",
+   "x": false
+  },
+  {
+   "id": "84888",
+   "isValid": "",
+   "prompt": "{{BLANK}} ist die beste Medizin.",
+   "x": false
+  },
+  {
+   "id": "84967",
+   "isValid": "",
+   "prompt": "{{BLANK}} wartet nicht.",
+   "x": false
+  },
+  {
+   "id": "84970",
+   "isValid": "",
+   "prompt": "Du bist nie zu {{BLANK}}.",
+   "x": false
+  },
+  {
+   "id": "84972",
+   "isValid": "",
+   "prompt": "{{BLANK}} ist keine Option.",
+   "x": false
+  }
+ ]
+}

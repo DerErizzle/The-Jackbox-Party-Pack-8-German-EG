@@ -1,0 +1,3640 @@
+{
+ "content": [
+  {
+   "id": "76180",
+   "isValid": "",
+   "phrase": "Ich nehme was sie nimmt, wenn das in Ordnung ist.",
+   "x": false
+  },
+  {
+   "id": "76181",
+   "isValid": "",
+   "phrase": "Lass mich leben wie ein sehr alter Pfirsich in der Sonne.",
+   "x": false
+  },
+  {
+   "id": "76182",
+   "isValid": "",
+   "phrase": "Schau mich nicht so an, du Depp.",
+   "x": false
+  },
+  {
+   "id": "76184",
+   "isValid": "",
+   "phrase": "Im Fussball weint man einfach nicht. Was die anderen Sportarten angeht kann ich nichts zu sagen.",
+   "x": false
+  },
+  {
+   "id": "76185",
+   "isValid": "",
+   "phrase": "Gib mir das Paar mit den Würfeln, Kevin",
+   "x": false
+  },
+  {
+   "id": "76186",
+   "isValid": "",
+   "phrase": "Niemand würde einen Knirps in die Ecke stellen",
+   "x": false
+  },
+  {
+   "id": "76187",
+   "isValid": "",
+   "phrase": "Mir geräucherten Lachs zu geben ist leichte Körperverletzung.",
+   "x": false
+  },
+  {
+   "id": "76188",
+   "isValid": "",
+   "phrase": "Das \"Howdy, Partner!\" war echt gut.",
+   "x": false
+  },
+  {
+   "id": "76189",
+   "isValid": "",
+   "phrase": "Willkommen im Kölner Dom, ihr Trottel.",
+   "x": false
+  },
+  {
+   "id": "76190",
+   "isValid": "",
+   "phrase": "Ich habe zu viele Geldscheine in meiner Brieftasche.",
+   "x": false
+  },
+  {
+   "id": "76191",
+   "isValid": "",
+   "phrase": "Warum wird von mir verlangt, dass ich Mango esse?",
+   "x": false
+  },
+  {
+   "id": "76192",
+   "isValid": "",
+   "phrase": "Okay, ehrlich gesagt bin ich weder dafür noch dagegen.",
+   "x": false
+  },
+  {
+   "id": "76193",
+   "isValid": "",
+   "phrase": "Aktiviere das Schutzschild, Meister!",
+   "x": false
+  },
+  {
+   "id": "76194",
+   "isValid": "",
+   "phrase": "Muss ich jetzt schon vom Fitnesstudio in Rente gehen?",
+   "x": false
+  },
+  {
+   "id": "76195",
+   "isValid": "",
+   "phrase": "Mach daraus jetzt keine offizielle Sache.",
+   "x": false
+  },
+  {
+   "id": "76196",
+   "isValid": "",
+   "phrase": "Kann ich euch vertrauen, dass ihr das nicht aus den Kontext reisst?",
+   "x": false
+  },
+  {
+   "id": "76197",
+   "isValid": "",
+   "phrase": "Geil alter, ich liebe gratis Sachen!",
+   "x": false
+  },
+  {
+   "id": "76198",
+   "isValid": "",
+   "phrase": "Und deswegen erzähle ich dir nie etwas von Schwertkämpfen.",
+   "x": false
+  },
+  {
+   "id": "76199",
+   "isValid": "",
+   "phrase": "Ich suche für einen bestimmten Herren. Haben Sie ihn gesehen?",
+   "x": false
+  },
+  {
+   "id": "76254",
+   "isValid": "",
+   "phrase": "Ich habe Angst vor Hunden, deshalb pass lieber auf.",
+   "x": false
+  },
+  {
+   "id": "76255",
+   "isValid": "",
+   "phrase": "Ich würde jetzt doppelt so viel bezahlten für diesen Big Mac.",
+   "x": false
+  },
+  {
+   "id": "76256",
+   "isValid": "",
+   "phrase": "Ich hasse es einfach, unterbrochen zu werden.",
+   "x": false
+  },
+  {
+   "id": "76257",
+   "isValid": "",
+   "phrase": "Nenn mich einen Fluss, denn ich reisse dich mit.",
+   "x": false
+  },
+  {
+   "id": "76258",
+   "isValid": "",
+   "phrase": "Dieses Produkt darf man nicht zerquetschen, kapiert?",
+   "x": false
+  },
+  {
+   "id": "76259",
+   "isValid": "",
+   "phrase": "Ich habe dich oder deine Familie noch nie gemocht.",
+   "x": false
+  },
+  {
+   "id": "76260",
+   "isValid": "",
+   "phrase": "Es ist ein sonniger Tag, um am Strand zu spazieren.",
+   "x": false
+  },
+  {
+   "id": "76283",
+   "isValid": "",
+   "phrase": "Wenn du die Hitze nicht ertragen kannst, geh nicht in die Küche.",
+   "x": false
+  },
+  {
+   "id": "76291",
+   "isValid": "",
+   "phrase": "Ich liebe es, jeden Tag an Blumen zu riechen.",
+   "x": false
+  },
+  {
+   "id": "76295",
+   "isValid": "",
+   "phrase": "Ich fange keine Diskussionen an. Ich beende sie.",
+   "x": false
+  },
+  {
+   "id": "76340",
+   "isValid": "",
+   "phrase": "Wenn alle auf Netflix ihre Serien schauen, bin ich schon am schlafen.",
+   "x": true
+  },
+  {
+   "id": "76341",
+   "isValid": "",
+   "phrase": "Wenn du zwei Mal fragen musst, frag lieber gar nicht.",
+   "x": false
+  },
+  {
+   "id": "76342",
+   "isValid": "",
+   "phrase": "Es macht mehr Spass, wenn alle mitmachen.",
+   "x": false
+  },
+  {
+   "id": "76343",
+   "isValid": "",
+   "phrase": "Vitamine, eine ausgewogene Ernährung und Schokoriegel.",
+   "x": false
+  },
+  {
+   "id": "76344",
+   "isValid": "",
+   "phrase": "Die Königin gibt dir Recht! Glück gehabt!",
+   "x": false
+  },
+  {
+   "id": "76345",
+   "isValid": "",
+   "phrase": "Du kannst nicht alle Kettensägen auf einmal jonglieren.",
+   "x": false
+  },
+  {
+   "id": "76361",
+   "isValid": "",
+   "phrase": "Zurück zur täglichen, harten Arbeit allerseits.",
+   "x": false
+  },
+  {
+   "id": "76372",
+   "isValid": "",
+   "phrase": "Passt auf die Klauen der Katze auf. Das könnte lebensgefährlich sein.",
+   "x": false
+  },
+  {
+   "id": "76373",
+   "isValid": "",
+   "phrase": "Ich habe alle Tricks aus dem Buch genutzt.",
+   "x": false
+  },
+  {
+   "id": "76374",
+   "isValid": "",
+   "phrase": "Ich werde meinen Körper an die Wissenschaft spenden.",
+   "x": false
+  },
+  {
+   "id": "76375",
+   "isValid": "",
+   "phrase": "Das wirkt langsam immer mehr wie eine Verschwörungstheorie.",
+   "x": false
+  },
+  {
+   "id": "76376",
+   "isValid": "",
+   "phrase": "Ein Fremder ist nur ein Freund, den du vorher noch nie gesehen hast",
+   "x": false
+  },
+  {
+   "id": "76377",
+   "isValid": "",
+   "phrase": "Ich hätte die ganze Nacht getanzt, wenn mich die Polizei nicht aufgehalten hätte.",
+   "x": false
+  },
+  {
+   "id": "76378",
+   "isValid": "",
+   "phrase": "Du kannst nach den Sternen greifen, wirst sie aber nie erreichen können.",
+   "x": false
+  },
+  {
+   "id": "76379",
+   "isValid": "",
+   "phrase": "Du musst ganz leise sein, damit dich die Albträume niemals finden können.",
+   "x": false
+  },
+  {
+   "id": "76380",
+   "isValid": "",
+   "phrase": "Ich verstehe die Kunst der Verführung nicht.",
+   "x": true
+  },
+  {
+   "id": "76381",
+   "isValid": "",
+   "phrase": "Das kostenlose Essen ist ja gar nicht umsonst. Was für eine Abzocke",
+   "x": false
+  },
+  {
+   "id": "76382",
+   "isValid": "",
+   "phrase": "Du findest meine Heimat auf keiner Karte dieser Welt.",
+   "x": false
+  },
+  {
+   "id": "76609",
+   "isValid": "",
+   "phrase": "Der Tod hat Angst vor mir",
+   "x": false
+  },
+  {
+   "id": "76617",
+   "isValid": "",
+   "phrase": "Der Arzt hat mir gesagt, ich soll mich aus seinem Mist raushalten",
+   "x": false
+  },
+  {
+   "id": "76622",
+   "isValid": "",
+   "phrase": "Meine Katze ist manchmal echt gemein, aber sie kann gut kuscheln",
+   "x": false
+  },
+  {
+   "id": "76623",
+   "isValid": "",
+   "phrase": "Stelle sicher, dass du auf den Kaffe pustest, bevor du ihn trinkst.",
+   "x": false
+  },
+  {
+   "id": "76624",
+   "isValid": "",
+   "phrase": "Ich rieche Gefahr und wir werden alle sterben",
+   "x": false
+  },
+  {
+   "id": "76626",
+   "isValid": "",
+   "phrase": "Ich bin kein Trainer aus dem Fitnessstudio, aber du bist ein Lauch!",
+   "x": false
+  },
+  {
+   "id": "76627",
+   "isValid": "",
+   "phrase": "Ich vermisse soziale Interaktion kein Bisschen",
+   "x": false
+  },
+  {
+   "id": "76940",
+   "isValid": "",
+   "phrase": "Ich kann nicht alle deine Fehler rückgängig machen!",
+   "x": false
+  },
+  {
+   "id": "76942",
+   "isValid": "",
+   "phrase": "Dieses Minzbonbon ist für meinen Geschmack etwas zu scharf",
+   "x": false
+  },
+  {
+   "id": "76943",
+   "isValid": "",
+   "phrase": "Nichts schmeckt besser als die Nudeln meiner Mutter!",
+   "x": false
+  },
+  {
+   "id": "76947",
+   "isValid": "",
+   "phrase": "Der Sturm hat die einzige Strasse in der Stadt zerstört",
+   "x": false
+  },
+  {
+   "id": "77463",
+   "isValid": "",
+   "phrase": "nur einer von uns wird es lebendig hier raus schaffen",
+   "x": false
+  },
+  {
+   "id": "77464",
+   "isValid": "",
+   "phrase": "das Bott ist zwar stark, aber der Sturm wird es zerstören",
+   "x": false
+  },
+  {
+   "id": "77465",
+   "isValid": "",
+   "phrase": "ein freundlicher Handschlag ist mehr wert als Gold",
+   "x": false
+  },
+  {
+   "id": "77466",
+   "isValid": "",
+   "phrase": "meine Träume vom Erfolg wurden zu Albträumen",
+   "x": false
+  },
+  {
+   "id": "77467",
+   "isValid": "",
+   "phrase": "die Uhr ist mein Erzfeind, weil mir wegen ihr die Zeit ausgeht",
+   "x": false
+  },
+  {
+   "id": "78041",
+   "isValid": "",
+   "phrase": "weisst du, kuscheln ist meine Spezialität",
+   "x": false
+  },
+  {
+   "id": "79478",
+   "isValid": "",
+   "phrase": "Ich hätte niemals gedacht, dass ich ein Pferd besitzen würde. So flauschig.",
+   "x": false
+  },
+  {
+   "id": "79479",
+   "isValid": "",
+   "phrase": "Oh! So sehr habe ich nie über das Taxi nachgedacht.",
+   "x": false
+  },
+  {
+   "id": "79480",
+   "isValid": "",
+   "phrase": "Es geht um drei Babys und einen Mann, alter.",
+   "x": false
+  },
+  {
+   "id": "79481",
+   "isValid": "",
+   "phrase": "Husten ist ein normaler Nebeneffekt von einem trockenen Hals.",
+   "x": false
+  },
+  {
+   "id": "79482",
+   "isValid": "",
+   "phrase": "Ich möchte die Theorie einfach mal abstreiten.",
+   "x": false
+  },
+  {
+   "id": "79483",
+   "isValid": "",
+   "phrase": "Es gibt einen Löwen, einen Schalter und... obacht - Ein Baumhaus.",
+   "x": false
+  },
+  {
+   "id": "79484",
+   "isValid": "",
+   "phrase": "Wow! Ich wünschte, mir würden die ganzen Fische gehören. Zu schade!",
+   "x": false
+  },
+  {
+   "id": "79485",
+   "isValid": "",
+   "phrase": "Ich möchte mir viele zu grosse Hosen auf einmal kaufen",
+   "x": false
+  },
+  {
+   "id": "79486",
+   "isValid": "",
+   "phrase": "Ich habe noch nie nein gesagt. Ein Zugleiter wird nicht der Erste sein",
+   "x": false
+  },
+  {
+   "id": "79487",
+   "isValid": "",
+   "phrase": "Wenn deine Schuhe an dem Boden bleiben, ist es Zeit, zu gehen",
+   "x": false
+  },
+  {
+   "id": "79488",
+   "isValid": "",
+   "phrase": "Gib ihr Zeit, um das grosse Loch zu erklären",
+   "x": false
+  },
+  {
+   "id": "79489",
+   "isValid": "",
+   "phrase": "Oh Mann, kein Wunder, dass es so feucht ist",
+   "x": false
+  },
+  {
+   "id": "79490",
+   "isValid": "",
+   "phrase": "Ich war auf vielen Hochzeiten. Und diese ist mit Abstand die schlechteste",
+   "x": false
+  },
+  {
+   "id": "79491",
+   "isValid": "",
+   "phrase": "Lasst uns Papa sagen, ich würde den Vogel lieber nicht versorgen",
+   "x": false
+  },
+  {
+   "id": "79492",
+   "isValid": "",
+   "phrase": "Wow! Ich habe noch nie an den Boden gedacht",
+   "x": false
+  },
+  {
+   "id": "79493",
+   "isValid": "",
+   "phrase": "Holt euch einen kleinen Frischkäse und etwas getrocknete Zwiebel ... Oh Junge!",
+   "x": false
+  },
+  {
+   "id": "79495",
+   "isValid": "",
+   "phrase": "Pizza mit Ananas? Da kannst du deinen Hintern drauf verwetten!",
+   "x": false
+  },
+  {
+   "id": "79496",
+   "isValid": "",
+   "phrase": "Ich bin mit dem Zusammenleben von Spinnen und Menschen nicht einverstanden",
+   "x": false
+  },
+  {
+   "id": "79497",
+   "isValid": "",
+   "phrase": "Früher gab es nur drei Sender im Fernsehen und heute habe ich nicht mal ein Handy",
+   "x": false
+  },
+  {
+   "id": "79510",
+   "isValid": "",
+   "phrase": "Du beleidigst meine Ehre und verletzt meinen Stolz",
+   "x": false
+  },
+  {
+   "id": "79513",
+   "isValid": "",
+   "phrase": "Alle Ameisen auf dem Hügel würden diese Lektion nie vergessen",
+   "x": false
+  },
+  {
+   "id": "79558",
+   "isValid": "",
+   "phrase": "Sie haben die grosse musikalische Anzahl völlig ignoriert",
+   "x": false
+  },
+  {
+   "id": "79559",
+   "isValid": "",
+   "phrase": "Kicke einfach durch das Frühstück, Mittag- und Abendessen",
+   "x": false
+  },
+  {
+   "id": "79560",
+   "isValid": "",
+   "phrase": "Wenn du Atommüll hinzufügen möchtest, mach es sanft",
+   "x": false
+  },
+  {
+   "id": "79561",
+   "isValid": "",
+   "phrase": "Unglücklicherweise sind das alle Murmeln, die ich heute gesehen habe",
+   "x": false
+  },
+  {
+   "id": "79562",
+   "isValid": "",
+   "phrase": "Wenn du auf Ameisen trittst, hasst du Lebewesen",
+   "x": false
+  },
+  {
+   "id": "79563",
+   "isValid": "",
+   "phrase": "Es tut mir fürchterlich Leid, aber wir haben keine Butter mehr.",
+   "x": false
+  },
+  {
+   "id": "79564",
+   "isValid": "",
+   "phrase": "Ein paar Betten, ein paar Tafeln und es kann losgehen",
+   "x": false
+  },
+  {
+   "id": "79565",
+   "isValid": "",
+   "phrase": "Ein Tattoo auf meiner Stirn, damit ich es nicht vergesse",
+   "x": false
+  },
+  {
+   "id": "79566",
+   "isValid": "",
+   "phrase": "Wenn du nicht die Salatsosse probierst, bist du einfach nur ein Idiot.",
+   "x": false
+  },
+  {
+   "id": "79567",
+   "isValid": "",
+   "phrase": "Eine kaputte Uhr muss einfach nur gewartet werden.",
+   "x": false
+  },
+  {
+   "id": "79568",
+   "isValid": "",
+   "phrase": "Ich lasse einfach mal meine Wertgegenstände zuhause",
+   "x": false
+  },
+  {
+   "id": "79569",
+   "isValid": "",
+   "phrase": "Gleite in etwas gemütliches oder beschwer dich nicht",
+   "x": false
+  },
+  {
+   "id": "79570",
+   "isValid": "",
+   "phrase": "Lasst euch nicht von den gesetzlichen Regelungen ablenken",
+   "x": false
+  },
+  {
+   "id": "79572",
+   "isValid": "",
+   "phrase": "Ein Snickers am Tag beruhigt den Markt",
+   "x": false
+  },
+  {
+   "id": "79573",
+   "isValid": "",
+   "phrase": "Entschuldigung bitte. Ich dachte, du würdest Quatsch reden",
+   "x": false
+  },
+  {
+   "id": "79574",
+   "isValid": "",
+   "phrase": "Nein, behalte es gerne. Ich habe davon noch genug in meinem Monster Truck",
+   "x": false
+  },
+  {
+   "id": "79575",
+   "isValid": "",
+   "phrase": "Bitte fang sofort an, Schach zu spielen",
+   "x": false
+  },
+  {
+   "id": "79576",
+   "isValid": "",
+   "phrase": "Das Recht zu schweigen ist mein Favorit",
+   "x": false
+  },
+  {
+   "id": "79577",
+   "isValid": "",
+   "phrase": "Die Krabbe geht von der Gesamtsituation weg",
+   "x": false
+  },
+  {
+   "id": "79578",
+   "isValid": "",
+   "phrase": "Hey! Grossartig, dich nach zwanzig Jahren zu sehen",
+   "x": false
+  },
+  {
+   "id": "79579",
+   "isValid": "",
+   "phrase": "Okay, Team, los! Stapeln! Erobern! Zerstören!",
+   "x": false
+  },
+  {
+   "id": "79580",
+   "isValid": "",
+   "phrase": "Ich habe so viele Kartoffeln, Hilfe",
+   "x": false
+  },
+  {
+   "id": "79581",
+   "isValid": "",
+   "phrase": "Die Technologie ist wirklich der heisse Scheiss",
+   "x": false
+  },
+  {
+   "id": "79582",
+   "isValid": "",
+   "phrase": "Nutella geht auf mich, Leute! Dankt mir später.",
+   "x": false
+  },
+  {
+   "id": "79583",
+   "isValid": "",
+   "phrase": "Socken und Sandalen. Das ist mein Motto.",
+   "x": false
+  },
+  {
+   "id": "79594",
+   "isValid": "",
+   "phrase": "Er hat das ganze Geld der Welt, aber keine Hosen",
+   "x": false
+  },
+  {
+   "id": "79595",
+   "isValid": "",
+   "phrase": "Heilige Makrele, dieses Dosenbier ruiniert mein ganzes Leben",
+   "x": false
+  },
+  {
+   "id": "79597",
+   "isValid": "",
+   "phrase": "Ich war in Berlin und wurde nur beleidigt",
+   "x": false
+  },
+  {
+   "id": "79598",
+   "isValid": "",
+   "phrase": "Der Hai und der Bär sind sich einig, dass das Leben sinnlos ist",
+   "x": false
+  },
+  {
+   "id": "79600",
+   "isValid": "",
+   "phrase": "Die Wissenschaft ist sich immernoch nicht sicher, ob Delphine Basketball spielen können.",
+   "x": false
+  },
+  {
+   "id": "79601",
+   "isValid": "",
+   "phrase": "Wir essen gerne einen ganzen Hummer mit sehr viel Speck",
+   "x": false
+  },
+  {
+   "id": "79602",
+   "isValid": "",
+   "phrase": "Der DJ haut die krassen und die lahmen Beats raus",
+   "x": false
+  },
+  {
+   "id": "79604",
+   "isValid": "",
+   "phrase": "Die Erdnussbutter schmeckt echt nicht so gut, wie sie eigentlich schmecken sollte",
+   "x": false
+  },
+  {
+   "id": "79622",
+   "isValid": "",
+   "phrase": "Ich habe heute Paprika, Brokkoli und Reis gegessen. Ich bin stolz auf mich.",
+   "x": false
+  },
+  {
+   "id": "79623",
+   "isValid": "",
+   "phrase": "Wir sind die Til Schweiger Produktionen GmbH!",
+   "x": false
+  },
+  {
+   "id": "79624",
+   "isValid": "",
+   "phrase": "Danke, dass du mir die Schuld anerkannt hast. Ich fühle mich sehr geehrt.",
+   "x": false
+  },
+  {
+   "id": "79625",
+   "isValid": "",
+   "phrase": "Was soll das alles überhaupt? Ich blicke da schon lange nicht mehr durch!",
+   "x": false
+  },
+  {
+   "id": "79626",
+   "isValid": "",
+   "phrase": "Das Herz trägt dazu bei, dass das Blut durch den ganzen Körper befördert wird.",
+   "x": false
+  },
+  {
+   "id": "79627",
+   "isValid": "",
+   "phrase": "Ich trinke Whiskey, Wodka und macnhmal Wein.",
+   "x": true
+  },
+  {
+   "id": "79628",
+   "isValid": "",
+   "phrase": "Zeit, Geld zusammenzulegen um zu schauen, ob wir uns das Spielzeug leisten können.",
+   "x": false
+  },
+  {
+   "id": "79629",
+   "isValid": "",
+   "phrase": "Mutter Huhn beschützt ihre Jungen ein wenig zu sehr.",
+   "x": false
+  },
+  {
+   "id": "79630",
+   "isValid": "",
+   "phrase": "Mit Knete kann man echt eine Menge machen",
+   "x": false
+  },
+  {
+   "id": "79631",
+   "isValid": "",
+   "phrase": "So kann man in wenigen Schritten Steuern hinterziehen.",
+   "x": false
+  },
+  {
+   "id": "79632",
+   "isValid": "",
+   "phrase": "Er ist mit dem Auto in einen grossen Unfall verwickelt gewesen.",
+   "x": false
+  },
+  {
+   "id": "79633",
+   "isValid": "",
+   "phrase": "Die Kokusnuss beginnt damit, ihr Äusseres zu verändern",
+   "x": false
+  },
+  {
+   "id": "79634",
+   "isValid": "",
+   "phrase": "Ich habe meinen Vater mal eben an der U-Bahn abgeholt.",
+   "x": false
+  },
+  {
+   "id": "79635",
+   "isValid": "",
+   "phrase": "Wir haben an der Präsentation zusammengearbeitet aber der Inhalt ist von mir.",
+   "x": false
+  },
+  {
+   "id": "79636",
+   "isValid": "",
+   "phrase": "Ich weigere mich, die Pizza mit Hänchen und extra Ananas zu essen. Das ist widerlich",
+   "x": false
+  },
+  {
+   "id": "79637",
+   "isValid": "",
+   "phrase": "Ich bin mir sicher, dass die Kunst der Kalligrafie bald ausstirbt.",
+   "x": false
+  },
+  {
+   "id": "79638",
+   "isValid": "",
+   "phrase": "Studenten und junge Professoren verbringen extrem viel Zeit mit brutalen Videospielen.",
+   "x": false
+  },
+  {
+   "id": "79639",
+   "isValid": "",
+   "phrase": "Ich empfehle allen Leuten, eine Diät anzufangen, die aus Katzenfutter mit Vitamin C besteht",
+   "x": false
+  },
+  {
+   "id": "79641",
+   "isValid": "",
+   "phrase": "Verloren im Meer und die Möwen suchen nach rohem Fisch",
+   "x": false
+  },
+  {
+   "id": "79642",
+   "isValid": "",
+   "phrase": "Alle Partikel am Meeresgrund suchen nach einem neuen Beruf.",
+   "x": false
+  },
+  {
+   "id": "79643",
+   "isValid": "",
+   "phrase": "Vielleicht wollte Caesar gar nicht erobern, sondern wollte nur spielen",
+   "x": false
+  },
+  {
+   "id": "79644",
+   "isValid": "",
+   "phrase": "Die Schatten sind warum auch immer lebendig geworden und nerven jetzt eine ältere Dame.",
+   "x": false
+  },
+  {
+   "id": "79645",
+   "isValid": "",
+   "phrase": "Ich brate ein leckeres Schnitzel mit Nudelsalat und Dressing zum Mittagessen vor",
+   "x": false
+  },
+  {
+   "id": "79646",
+   "isValid": "",
+   "phrase": "Wenn du ihn nach 100 Euro fragst, gibt er dir einfach so das doppelte. Ich schwöre!",
+   "x": false
+  },
+  {
+   "id": "79647",
+   "isValid": "",
+   "phrase": "Die Herausforderung ist es, die Kosten so zu kalkulieren, dass der Gewinn höher als die Ausgaben ist.",
+   "x": false
+  },
+  {
+   "id": "79648",
+   "isValid": "",
+   "phrase": "Ich sehe jeden Tag, wie die Umwelt beschmutzt und ausgenutzt wird.",
+   "x": false
+  },
+  {
+   "id": "79649",
+   "isValid": "",
+   "phrase": "Der Kölner Dom ist dauerhaft und ohne Grund geschlossen!",
+   "x": false
+  },
+  {
+   "id": "79650",
+   "isValid": "",
+   "phrase": "Er hat einfach so seine Schuhe ausgezogen und den Eisstiel ausgelacht",
+   "x": false
+  },
+  {
+   "id": "79690",
+   "isValid": "",
+   "phrase": "Beeindrucke mich, du kleiner Teufel. Ich weiss, dass du das drauf hast",
+   "x": false
+  },
+  {
+   "id": "79691",
+   "isValid": "",
+   "phrase": "Immerhin gibt es Nudeln. Obwohl ich nicht sagen möchte, dass mir eine Nudel zum Essen ausreicht.",
+   "x": false
+  },
+  {
+   "id": "79692",
+   "isValid": "",
+   "phrase": "Meine unendliche Liebe zu Angela Merkel lässt sich schwierig in Worte fassen",
+   "x": false
+  },
+  {
+   "id": "79693",
+   "isValid": "",
+   "phrase": "Augenbrauen sind zum jetzigen Zeitpunkt nur ein sehr kleiner Nachteil",
+   "x": false
+  },
+  {
+   "id": "79694",
+   "isValid": "",
+   "phrase": "Ich freue mich überraschenderweise sehr, an der Beerdigung teilnehmen zu können",
+   "x": true
+  },
+  {
+   "id": "79695",
+   "isValid": "",
+   "phrase": "Ich hol mir gleich Mittagessen und Dynamit. Soll ich dir was mitbringen?",
+   "x": false
+  },
+  {
+   "id": "79696",
+   "isValid": "",
+   "phrase": "Mein gigantisches Gehirn entspannt sich noch gemütlich in seiner kleinen Hängematte",
+   "x": false
+  },
+  {
+   "id": "79698",
+   "isValid": "",
+   "phrase": "Achterbahnen sind das wichtigste bei jedem Kaffeetrinken",
+   "x": false
+  },
+  {
+   "id": "79699",
+   "isValid": "",
+   "phrase": "Das Wurmloch, das sich gerade geöffnet hat, bekommt eine Menge gratis Gutscheine von mir",
+   "x": false
+  },
+  {
+   "id": "79700",
+   "isValid": "",
+   "phrase": "Ja, meine Arme sind vielleicht aus Styropor. Was dagegen?",
+   "x": false
+  },
+  {
+   "id": "79701",
+   "isValid": "",
+   "phrase": "Waffeln werden hier nicht geduldet. Ausser am Donnerstag und Samstag",
+   "x": false
+  },
+  {
+   "id": "79702",
+   "isValid": "",
+   "phrase": "Ich habe eine emotionale Affäre mit meinem vollautomatischen Staubsauger Roboter",
+   "x": false
+  },
+  {
+   "id": "79703",
+   "isValid": "",
+   "phrase": "Ich kann nicht mehr einschlafen, weil ich diese blutigen Diamanten besitze",
+   "x": false
+  },
+  {
+   "id": "79704",
+   "isValid": "",
+   "phrase": "Mein Ehering liegt auf dem Grund von dieser Ketchupflasche",
+   "x": false
+  },
+  {
+   "id": "79705",
+   "isValid": "",
+   "phrase": "Yippie! Ich habe gerade den McDonalds meiner Träume gefunden.",
+   "x": false
+  },
+  {
+   "id": "79706",
+   "isValid": "",
+   "phrase": "Ich sammel halt gerne Weihnachtsbäume. Da ist doch nichts schlimmes dran",
+   "x": false
+  },
+  {
+   "id": "79708",
+   "isValid": "",
+   "phrase": "Die Regulierung des Kaffeekanne ist nicht nur eine Kunst, es ist politisches Denken",
+   "x": false
+  },
+  {
+   "id": "79709",
+   "isValid": "",
+   "phrase": "Eine frische Tasse grünen Schleim. Der Tag kann beginnen!",
+   "x": false
+  },
+  {
+   "id": "79710",
+   "isValid": "",
+   "phrase": "Ich bin etwas spät dran für meine wöchentliche Nahtoderfahrung",
+   "x": false
+  },
+  {
+   "id": "79711",
+   "isValid": "",
+   "phrase": "Keep this up and a jumping jack could be in your future",
+   "x": false
+  },
+  {
+   "id": "79712",
+   "isValid": "",
+   "phrase": "Dein mechanischer Kugelschreiber hat mir ein drittes Auge verpasst",
+   "x": false
+  },
+  {
+   "id": "79713",
+   "isValid": "",
+   "phrase": "Ich muss meine Beine dehnen, ansonsten kann ich so nicht zu Rewe",
+   "x": false
+  },
+  {
+   "id": "79715",
+   "isValid": "",
+   "phrase": "Tanze im Rhythmus zu diesem Ding Dang Dong, yeah so geht das.",
+   "x": false
+  },
+  {
+   "id": "79716",
+   "isValid": "",
+   "phrase": "Ich habe heute morgen früh ein leckeres Frühstück gehabt",
+   "x": false
+  },
+  {
+   "id": "79717",
+   "isValid": "",
+   "phrase": "Ich kann auch verhandeln, aber nur auf hoher See, kapiert?",
+   "x": false
+  },
+  {
+   "id": "79718",
+   "isValid": "",
+   "phrase": "Ziehen wir uns Gummihandschuhe an und verhandeln die Sache wie echte Männer",
+   "x": false
+  },
+  {
+   "id": "79719",
+   "isValid": "",
+   "phrase": "Bananencremetorte, ah, der Luxus und Reichtum",
+   "x": false
+  },
+  {
+   "id": "79720",
+   "isValid": "",
+   "phrase": "Schwergewichts-Champion des Fussweges, ich denk an dich",
+   "x": false
+  },
+  {
+   "id": "79721",
+   "isValid": "",
+   "phrase": "Wasser oder Hölle, Matt Damon wird mein Freund",
+   "x": true
+  },
+  {
+   "id": "79722",
+   "isValid": "",
+   "phrase": "Ja, ich schlafe mit Kuscheltier. Und ja, ich bin ein Businessman",
+   "x": false
+  },
+  {
+   "id": "79723",
+   "isValid": "",
+   "phrase": "Einige Visionen und Halluzinationen haben mich bereits entzückt",
+   "x": false
+  },
+  {
+   "id": "79724",
+   "isValid": "",
+   "phrase": "Leiht mir jemand sein Bayonett für Freizeitzwecke?",
+   "x": false
+  },
+  {
+   "id": "79725",
+   "isValid": "",
+   "phrase": "Ein Bichon Frize! Was ein Kerl, was eine kleine Legende",
+   "x": false
+  },
+  {
+   "id": "79726",
+   "isValid": "",
+   "phrase": "Irgendjemand grillt, für die Sehnsucht in den Venen",
+   "x": false
+  },
+  {
+   "id": "79727",
+   "isValid": "",
+   "phrase": "Meine schöne Seide! Einmal mehr zertrampelt",
+   "x": false
+  },
+  {
+   "id": "79728",
+   "isValid": "",
+   "phrase": "Verschreibungspflichtige Termiten, wie von Mutti",
+   "x": false
+  },
+  {
+   "id": "79729",
+   "isValid": "",
+   "phrase": "Angelegenheiten und Probleme von höchster Wichtigkeit",
+   "x": false
+  },
+  {
+   "id": "79730",
+   "isValid": "",
+   "phrase": "Heiz den Ofen vor bis eine Milliarde, weisst du denn nichts?",
+   "x": false
+  },
+  {
+   "id": "79731",
+   "isValid": "",
+   "phrase": "Zähle meine Verluste, leider ganz schön viele",
+   "x": false
+  },
+  {
+   "id": "79732",
+   "isValid": "",
+   "phrase": "Stricke einen Sweater, oder flüchte wie der Feigling der du bist",
+   "x": false
+  },
+  {
+   "id": "79733",
+   "isValid": "",
+   "phrase": "Fürwahr, diese Entschlossenheit muss vorsichtig kalkuliert werden",
+   "x": false
+  },
+  {
+   "id": "79734",
+   "isValid": "",
+   "phrase": "Fürchte das Eiersalat-Sandwich, werde ein Gott",
+   "x": false
+  },
+  {
+   "id": "79735",
+   "isValid": "",
+   "phrase": "Es ist trist draussen, also bleib ich in der Müllpresse",
+   "x": false
+  },
+  {
+   "id": "79736",
+   "isValid": "",
+   "phrase": "Emotionen bleiben bestenfalls in der unteren Arterie",
+   "x": false
+  },
+  {
+   "id": "79737",
+   "isValid": "",
+   "phrase": "Niemals wieder ein Poster von mir an der Tür",
+   "x": false
+  },
+  {
+   "id": "79739",
+   "isValid": "",
+   "phrase": "Ich verehre euch, eure Majestät! Für 2 Euro die Stunde",
+   "x": false
+  },
+  {
+   "id": "79740",
+   "isValid": "",
+   "phrase": "Ein toller, glänzender Nickel macht mich meistens glücklich",
+   "x": false
+  },
+  {
+   "id": "79741",
+   "isValid": "",
+   "phrase": "Tagträumen von Wut und exquisitem Lachs Alfredo",
+   "x": false
+  },
+  {
+   "id": "79742",
+   "isValid": "",
+   "phrase": "Fred ist auf Bass, aber Beruhigungsmittel wären besser",
+   "x": false
+  },
+  {
+   "id": "79744",
+   "isValid": "",
+   "phrase": "Jemand Lust auf Applaus? Ich verspreche, mich zurückzuhalten",
+   "x": false
+  },
+  {
+   "id": "79746",
+   "isValid": "",
+   "phrase": "Verkehrskegel sind zum Salutieren gemacht. Findest du nicht?",
+   "x": false
+  },
+  {
+   "id": "79747",
+   "isValid": "",
+   "phrase": "Wer hätte gedacht, dass Motten schwärmen, angreifen und töten? Cool!",
+   "x": true
+  },
+  {
+   "id": "79748",
+   "isValid": "",
+   "phrase": "Alle von uns sind unverantwortliche Deppen, nicht nur Brenda.",
+   "x": false
+  },
+  {
+   "id": "79749",
+   "isValid": "",
+   "phrase": "Das ist der Weg, wie der Blechkuchen bröckelt, so sagt man",
+   "x": false
+  },
+  {
+   "id": "79750",
+   "isValid": "",
+   "phrase": "Ich bin eine grosse Heulsuse, die gerade aus Brasilien kommt",
+   "x": false
+  },
+  {
+   "id": "79751",
+   "isValid": "",
+   "phrase": "Tranzparenz ist für Amateur-Geister am wichtigsten",
+   "x": false
+  },
+  {
+   "id": "79752",
+   "isValid": "",
+   "phrase": "Spinat zwischen meinen Zähnen und das bleibt da wohl erstmal",
+   "x": true
+  },
+  {
+   "id": "79753",
+   "isValid": "",
+   "phrase": "Meine Gabel hat mich gepiekst, aber die wollte das sicher nicht",
+   "x": false
+  },
+  {
+   "id": "79754",
+   "isValid": "",
+   "phrase": "Habe meinen Bus schon wieder verpennt. Zum drölften mal",
+   "x": false
+  },
+  {
+   "id": "79755",
+   "isValid": "",
+   "phrase": "Es gibt nix besseres, als durch die Tiefkühlabteilung zu schlafwandeln",
+   "x": false
+  },
+  {
+   "id": "79756",
+   "isValid": "",
+   "phrase": "Ich drücke meine Nase wie verrückt, um aufzuwachen",
+   "x": false
+  },
+  {
+   "id": "79757",
+   "isValid": "",
+   "phrase": "Ich bevorzuge Anarchie, statt Händehalten oderso",
+   "x": false
+  },
+  {
+   "id": "79758",
+   "isValid": "",
+   "phrase": "Das Dark Web ist für mich direkt um die Ecke",
+   "x": false
+  },
+  {
+   "id": "79759",
+   "isValid": "",
+   "phrase": "Ranch-Dressing frisch aus der Flasche. Wie immer",
+   "x": false
+  },
+  {
+   "id": "79760",
+   "isValid": "",
+   "phrase": "Cantaloup-Melone, Haferflocken, Provolone, die Säulen der modernen Medizin",
+   "x": false
+  },
+  {
+   "id": "79761",
+   "isValid": "",
+   "phrase": "Mein persönlicher Gitarrenspieler ist da und läuft gerade warm",
+   "x": false
+  },
+  {
+   "id": "79762",
+   "isValid": "",
+   "phrase": "Ein Stahlschläger hat noch nie jemandem weh getan. Zitat benötigt",
+   "x": false
+  },
+  {
+   "id": "79763",
+   "isValid": "",
+   "phrase": "Schweres Atmen ist so ein verdammt cooler Move",
+   "x": false
+  },
+  {
+   "id": "79764",
+   "isValid": "",
+   "phrase": "Ich steck tief in der Koffeinzone, ich sags dir",
+   "x": false
+  },
+  {
+   "id": "79765",
+   "isValid": "",
+   "phrase": "Wissenschaftler wissen bis heute nicht, was ganz unten in der Tiefkühltruhe ist",
+   "x": false
+  },
+  {
+   "id": "79766",
+   "isValid": "",
+   "phrase": "Ich hab übrigens nen Vorsprung bei allen Sachen mit Klettverschluss",
+   "x": false
+  },
+  {
+   "id": "79767",
+   "isValid": "",
+   "phrase": "Ich bin zu Lügen und Diebstahl gewechselt und bin sehr glücklich",
+   "x": false
+  },
+  {
+   "id": "79768",
+   "isValid": "",
+   "phrase": "Böse ist so ein altmodisches Wort für Messer",
+   "x": false
+  },
+  {
+   "id": "79769",
+   "isValid": "",
+   "phrase": "Messing-Instrumente sind bereit und sorgen für Chaos",
+   "x": false
+  },
+  {
+   "id": "79770",
+   "isValid": "",
+   "phrase": "Ich denke entweder an Nachtclubs oder den tiefen Ozean",
+   "x": false
+  },
+  {
+   "id": "79771",
+   "isValid": "",
+   "phrase": "Ich fliehe seit Jahrzehnten, wollt ich nur mal sagen",
+   "x": false
+  },
+  {
+   "id": "79772",
+   "isValid": "",
+   "phrase": "Ich hab so Angst, dass meine Juwelen rudimentär sind",
+   "x": false
+  },
+  {
+   "id": "79773",
+   "isValid": "",
+   "phrase": "Lila Kartoffeln setzen den Massstab für Exzellenz",
+   "x": false
+  },
+  {
+   "id": "79774",
+   "isValid": "",
+   "phrase": "Am Ende ist hohes Cholesterin nur eine Frage der Perspektive",
+   "x": false
+  },
+  {
+   "id": "79776",
+   "isValid": "",
+   "phrase": "Du willst mir erzählen, da sei ein Brunnen in dem Stift?",
+   "x": false
+  },
+  {
+   "id": "79777",
+   "isValid": "",
+   "phrase": "Krater in der Butter der Erde, sehr knusprig!",
+   "x": false
+  },
+  {
+   "id": "79778",
+   "isValid": "",
+   "phrase": "Ich bin traurig für all das einsame Bambus auf der Welt",
+   "x": false
+  },
+  {
+   "id": "79779",
+   "isValid": "",
+   "phrase": "Ein Tischler ist für ein Baby ein akzeptabler Job.",
+   "x": false
+  },
+  {
+   "id": "79780",
+   "isValid": "",
+   "phrase": "Spring einfach in den Helikopter. Stell keine Fragen",
+   "x": false
+  },
+  {
+   "id": "79781",
+   "isValid": "",
+   "phrase": "Ich hab immer einen verfluchten, goldenen Schlüsselanhänger dabei",
+   "x": false
+  },
+  {
+   "id": "79784",
+   "isValid": "",
+   "phrase": "Atme tief ein und mach dich feddich Pardner!",
+   "x": false
+  },
+  {
+   "id": "79785",
+   "isValid": "",
+   "phrase": "Raumzeit ist nur fiktional. Es gibt nur das Ei",
+   "x": false
+  },
+  {
+   "id": "79786",
+   "isValid": "",
+   "phrase": "Die Mona Lisa sass halt einfach da",
+   "x": false
+  },
+  {
+   "id": "79787",
+   "isValid": "",
+   "phrase": "Ich stoppe Deutschland mit der Macht der Astrologie",
+   "x": false
+  },
+  {
+   "id": "79789",
+   "isValid": "",
+   "phrase": "Komm rein, deine Tante und ich machen Fotos",
+   "x": true
+  },
+  {
+   "id": "79790",
+   "isValid": "",
+   "phrase": "Leider ist mein Sohn ein hoffnungsloser Fall. Er kann nichtmal nen Wheelie",
+   "x": false
+  },
+  {
+   "id": "79791",
+   "isValid": "",
+   "phrase": "Die Leere ist zurück für die nächste Runde. Freue mich schon",
+   "x": false
+  },
+  {
+   "id": "79792",
+   "isValid": "",
+   "phrase": "Drachenfliegen wird nach dem 11. mal vorhersehbar",
+   "x": false
+  },
+  {
+   "id": "79793",
+   "isValid": "",
+   "phrase": "Je mehr du Fotos kopierst, desto attraktiver wirst du",
+   "x": true
+  },
+  {
+   "id": "79794",
+   "isValid": "",
+   "phrase": "Hunderte Zentimeter Laffy Daffy. Ich kann gar nicht mehr zählen",
+   "x": false
+  },
+  {
+   "id": "79795",
+   "isValid": "",
+   "phrase": "Will.I.Am bekommt den letzten Lacher, wenn alles vorbei ist",
+   "x": false
+  },
+  {
+   "id": "79796",
+   "isValid": "",
+   "phrase": "Mein Erzfeind, mein Retter, mein Engel, vergebt mir...",
+   "x": false
+  },
+  {
+   "id": "79797",
+   "isValid": "",
+   "phrase": "All diese Faxe sind so seltsam und faszinierend",
+   "x": false
+  },
+  {
+   "id": "79798",
+   "isValid": "",
+   "phrase": "Ich verkauf dir ne Brücke für 20 Euro",
+   "x": false
+  },
+  {
+   "id": "79799",
+   "isValid": "",
+   "phrase": "Hey Schlafmütze, der Kühlschrank ist wieder implodiert xoxo",
+   "x": false
+  },
+  {
+   "id": "79833",
+   "isValid": "",
+   "phrase": "Grossartiger Pudding mein Kumpel. Wirklich erstaunlich",
+   "x": false
+  },
+  {
+   "id": "79834",
+   "isValid": "",
+   "phrase": "Was für ein Bild von einem Mann! So nobel, so grazil!",
+   "x": false
+  },
+  {
+   "id": "79835",
+   "isValid": "",
+   "phrase": "In Form und bewegt sich wie ein D-Zug. Wie ein Engel",
+   "x": false
+  },
+  {
+   "id": "79836",
+   "isValid": "",
+   "phrase": "Faszinierend wie ein Gott. Die schönheit die Natur. Der Frieden der Tiere",
+   "x": false
+  },
+  {
+   "id": "79837",
+   "isValid": "",
+   "phrase": "Und dennoch für mich, was ist die Quintessenz? Für mich unbegreiflich",
+   "x": false
+  },
+  {
+   "id": "79838",
+   "isValid": "",
+   "phrase": "Im Sommer schwimme, springe und renne ich mit meiner Stiefmutter",
+   "x": false
+  },
+  {
+   "id": "79839",
+   "isValid": "",
+   "phrase": "Babys erstes Wort war “Didaktisch.” Sie machte die ersten Schritte nach drei Monaten.",
+   "x": false
+  },
+  {
+   "id": "79840",
+   "isValid": "",
+   "phrase": "Am Besten das Hähnchen mit Buttermilch marinieren, dann im Mehl wälzen und dann würzen",
+   "x": false
+  },
+  {
+   "id": "79841",
+   "isValid": "",
+   "phrase": "Einige spekulieren, dass viele der Pilger im ersten Winter, in dem sie in Plymouth landeten, sehr gelitten haben.",
+   "x": false
+  },
+  {
+   "id": "79842",
+   "isValid": "",
+   "phrase": "Ich bin berüchtigt dafür, sehr viel Sosse auf meinen Shrimp-Reis zu kippen",
+   "x": false
+  },
+  {
+   "id": "79843",
+   "isValid": "",
+   "phrase": "Wir kamen, sahen und eroberten, dann haben sie uns verprügelt",
+   "x": false
+  },
+  {
+   "id": "79844",
+   "isValid": "",
+   "phrase": "Ich habe ihren Plan aufgedeckt, sie wollen alles zerstören",
+   "x": false
+  },
+  {
+   "id": "79845",
+   "isValid": "",
+   "phrase": "Morgen und morgen und morgen und so geht das immer weiter",
+   "x": false
+  },
+  {
+   "id": "79846",
+   "isValid": "",
+   "phrase": "Tut mir leid Mr. und Mrs. Playmuth aber dieses Heimgeld gibts nicht",
+   "x": false
+  },
+  {
+   "id": "79847",
+   "isValid": "",
+   "phrase": "Wir haben Sachen aus dem 75. Stock geschmissen und einen Artgeschützten Adler getroffen",
+   "x": false
+  },
+  {
+   "id": "79848",
+   "isValid": "",
+   "phrase": "Wir sind die Spitze der Gesellschaft. Warum kriegen wir keine Pfannkuchenhäuser?",
+   "x": false
+  },
+  {
+   "id": "79849",
+   "isValid": "",
+   "phrase": "Das Auto brettert wie wild die Strasse entlang und die ganze Autobahn stank nach Gummi",
+   "x": false
+  },
+  {
+   "id": "79851",
+   "isValid": "",
+   "phrase": "Ich arbeitete für Big Pharma, Big Oil, Big Tobacco, und neulich, Big Poppa.",
+   "x": true
+  },
+  {
+   "id": "80212",
+   "isValid": "",
+   "phrase": "und mal wieder machen die Leute stress",
+   "x": false
+  },
+  {
+   "id": "80218",
+   "isValid": "",
+   "phrase": "Papiergeld ist nichts für einen Bonzen",
+   "x": false
+  },
+  {
+   "id": "80221",
+   "isValid": "",
+   "phrase": "Ich tanz den Schmerz einfach weg",
+   "x": false
+  },
+  {
+   "id": "80224",
+   "isValid": "",
+   "phrase": "Wenn du genug Senf isst, kannst du alles schaffen",
+   "x": false
+  },
+  {
+   "id": "80226",
+   "isValid": "",
+   "phrase": "Oh Gott, was ist das für ein Käfer in meinem Zimmer?! Iiih!",
+   "x": false
+  },
+  {
+   "id": "80235",
+   "isValid": "",
+   "phrase": "Das Erfolgsrezept für einen Road Trip: Kaufe Snacks und halt das Lenkrad fest",
+   "x": false
+  },
+  {
+   "id": "80238",
+   "isValid": "",
+   "phrase": "Kakerlaken haben Probleme, die ich nicht verstehe",
+   "x": false
+  },
+  {
+   "id": "80240",
+   "isValid": "",
+   "phrase": "Es ist wie Staatsgeheimnisse von einem Baby klauen",
+   "x": false
+  },
+  {
+   "id": "80243",
+   "isValid": "",
+   "phrase": "Ein Nickerchen ist quasi nur eine trockene Dusche",
+   "x": false
+  },
+  {
+   "id": "80245",
+   "isValid": "",
+   "phrase": "Der Seegraskönig regiert mit schleimiger Faust. Das gefällt uns",
+   "x": false
+  },
+  {
+   "id": "80416",
+   "isValid": "",
+   "phrase": "Mesotheliom und die Hits der 80er-Infomercials, erinnerst du dich daran?",
+   "x": false
+  },
+  {
+   "id": "80417",
+   "isValid": "",
+   "phrase": "Es gibt einen Steinhummer, ja, aber was passierte mit Fels-Phillip?",
+   "x": false
+  },
+  {
+   "id": "80418",
+   "isValid": "",
+   "phrase": "Ich bin in einer Gurke. Eine Haarige Situation",
+   "x": false
+  },
+  {
+   "id": "80419",
+   "isValid": "",
+   "phrase": "Langsam aber sicher geht die Schildkröte durch alle Magazine um einen Artikel über seine Frau zu finden",
+   "x": false
+  },
+  {
+   "id": "80420",
+   "isValid": "",
+   "phrase": "Ich hab in der Liebe versagt. Gefangen in Einsamkeit. Dabei spiele ich Jackbox Party Spiele.",
+   "x": false
+  },
+  {
+   "id": "80421",
+   "isValid": "",
+   "phrase": "Hier eine Liste von Schweinefleisch: Schinken, Steak, Wurst, Schweinenacken, und Sülze oderso.",
+   "x": false
+  },
+  {
+   "id": "80422",
+   "isValid": "",
+   "phrase": "Die Regierung funktioniert in der Annahme, dass Leute immer vernünftig sind",
+   "x": false
+  },
+  {
+   "id": "80423",
+   "isValid": "",
+   "phrase": "Des Esels Freunde schüttelten vertrottelt die Hufe",
+   "x": false
+  },
+  {
+   "id": "80424",
+   "isValid": "",
+   "phrase": "Vor langer Zeit kamen eine Ameise, eine Mücke, eine Biene, und ein Käfer in eine Bar und verprügelten den Wirt",
+   "x": true
+  },
+  {
+   "id": "80425",
+   "isValid": "",
+   "phrase": "Wir stoppten auf dem Weg nach Hause in Moskau und bekamen die erste Zigarette und den ersten Vodka Martini seit Monaten",
+   "x": true
+  },
+  {
+   "id": "80426",
+   "isValid": "",
+   "phrase": "Wer auch immer den Strauss fängt, muss vorgeben eine Schlange zu sein und die Hochzeit verlassen",
+   "x": false
+  },
+  {
+   "id": "80427",
+   "isValid": "",
+   "phrase": "Unsere Kuchenkarte heute: Apfel, Kürbis, Kirsch-Rhabarbar, und Fleisch. Es ist eine Schweinepastete.",
+   "x": false
+  },
+  {
+   "id": "80428",
+   "isValid": "",
+   "phrase": "Das ist eine generierte Antwort vom Spiel. Der Spieler hier ist langweilig und schreibfaul.",
+   "x": false
+  },
+  {
+   "id": "80429",
+   "isValid": "",
+   "phrase": "Mein Zeichen von Liebe ist, mein Gesicht im Käsekuchen zu vergraben und dich naschen zu lassen",
+   "x": false
+  },
+  {
+   "id": "80431",
+   "isValid": "",
+   "phrase": "Vieles der Katzenaktivität kommt unmittelbar von den Nachbarn",
+   "x": false
+  },
+  {
+   "id": "80433",
+   "isValid": "",
+   "phrase": "Die Kinder sind immernoch wach, aber ich muss italienisch essen!",
+   "x": false
+  },
+  {
+   "id": "80434",
+   "isValid": "",
+   "phrase": "Wundervoller Ballerino. Hübsches Publikum. Jeder hier ist einfach bezaubernd",
+   "x": false
+  },
+  {
+   "id": "80435",
+   "isValid": "",
+   "phrase": "Sie liessen komische Nachrichten auf meiner Serviette: “die Burger kommen” und “Mutter aller Burger.”",
+   "x": false
+  },
+  {
+   "id": "80436",
+   "isValid": "",
+   "phrase": "Das schlimmste Wort, dass ich je sagte war “Strumpfhose” und es war geflüstert.",
+   "x": false
+  },
+  {
+   "id": "80437",
+   "isValid": "",
+   "phrase": "Diese Muskeln hier sind der Gluteus Maximus, oder wie ich sage: Der Arschus Maximus, hab ich Recht?",
+   "x": false
+  },
+  {
+   "id": "80438",
+   "isValid": "",
+   "phrase": "Nacktheit ist nix schlimmes. Bei der Geburt waren wir alle Nackt. Und irgendwann sterben wir nackt.",
+   "x": true
+  },
+  {
+   "id": "80440",
+   "isValid": "",
+   "phrase": "Ich habe einen schlimmen Lupus und bin empflindlich zur Sonne, aber die Jungs lieben mich",
+   "x": false
+  },
+  {
+   "id": "80441",
+   "isValid": "",
+   "phrase": "Du warst nichtmehr glücklich, seit dein Vater dir diese Ninja-Schildkröten verboten hat und dich zur Kirche gezerrt hat",
+   "x": false
+  },
+  {
+   "id": "80442",
+   "isValid": "",
+   "phrase": "Hör zu, bist du bereit? Sein Name ist Clyde, wenn er Käsekuchen sieht, ich sag dir er schreit und Abends ist er immer breit.",
+   "x": false
+  },
+  {
+   "id": "80443",
+   "isValid": "",
+   "phrase": "Ich bin der Geschäftsführer oderso keine Ahnung ist ja auch egal",
+   "x": false
+  },
+  {
+   "id": "80444",
+   "isValid": "",
+   "phrase": "Er piekst Leute, macht Unordnung, isst Pizza und hört nie auf seine Mutter.",
+   "x": false
+  },
+  {
+   "id": "80532",
+   "isValid": "",
+   "phrase": "Ich shoppe für die perfekte, kabellose Oma.",
+   "x": false
+  },
+  {
+   "id": "80533",
+   "isValid": "",
+   "phrase": "Alberne Werbung wird mich nicht davon Abhalten diesen Blumenvasenladen zu überfallen",
+   "x": false
+  },
+  {
+   "id": "80534",
+   "isValid": "",
+   "phrase": "Sie war in Geldwäscherei mit einer Band in den 90ern beteiligt",
+   "x": false
+  },
+  {
+   "id": "80536",
+   "isValid": "",
+   "phrase": "Ich zittere! Ich weine! Ich bekomme eine Überdosis an Center Shockern um 2 Uhr Nachts.",
+   "x": true
+  },
+  {
+   "id": "80538",
+   "isValid": "",
+   "phrase": "Pass auf, du kleiner Dämon, ich bin hier das Boss Baby.",
+   "x": false
+  },
+  {
+   "id": "80540",
+   "isValid": "",
+   "phrase": "Fred kann nicht zu meiner Abschlussparty kommen. Er hat Flugverbot seit dem Raclettevorfall.",
+   "x": false
+  },
+  {
+   "id": "80542",
+   "isValid": "",
+   "phrase": "Meine Bettdecke ging genauso schnell hoch, wie meine Hochzeit in Las Vegas.",
+   "x": false
+  },
+  {
+   "id": "80543",
+   "isValid": "",
+   "phrase": "Vergiss nicht das Frühstücksfleisch im Handgeschnitzten Holzmantel.",
+   "x": false
+  },
+  {
+   "id": "80545",
+   "isValid": "",
+   "phrase": "Lass uns Freunde bleiben, bis Gertrude einer Erkältung erliegt",
+   "x": false
+  },
+  {
+   "id": "80547",
+   "isValid": "",
+   "phrase": "Für maximale Motivation gebe ich jeden Morgen Salz und Pfeffer auf meine Knöchel und meine Nacken",
+   "x": true
+  },
+  {
+   "id": "80548",
+   "isValid": "",
+   "phrase": "Bitte rufe den Vermieter an, es gibt ein Problem mit dem Becken",
+   "x": false
+  },
+  {
+   "id": "80550",
+   "isValid": "",
+   "phrase": "Ich gebe niemals meine Katze auf, egal was diese schreckliche Welt vorhat",
+   "x": false
+  },
+  {
+   "id": "80552",
+   "isValid": "",
+   "phrase": "Leute! Leute! Ganz ruhig, die Sonne ist in 20 Minuten wieder da.",
+   "x": false
+  },
+  {
+   "id": "80554",
+   "isValid": "",
+   "phrase": "Bitte mach mich nicht nass, dieses Planschbecken ist radioaktiv.",
+   "x": false
+  },
+  {
+   "id": "80555",
+   "isValid": "",
+   "phrase": "Woher sollte ich wissen, dass Gulasch nicht auf die Bettwäsche soll?",
+   "x": false
+  },
+  {
+   "id": "80556",
+   "isValid": "",
+   "phrase": "Ich hatte einen Traum, dass mir ein Flaschengeist einen Wunsch erfüllt. Dabei habe ich gar keine Wünsche!",
+   "x": false
+  },
+  {
+   "id": "80557",
+   "isValid": "",
+   "phrase": "Toaste das Brot. Die Textur eignet sich mehr für Verletzungen",
+   "x": false
+  },
+  {
+   "id": "80558",
+   "isValid": "",
+   "phrase": "Eine Herde Tiere rannte gerade an meinem Fenster vorbei. Im 27. Stock",
+   "x": false
+  },
+  {
+   "id": "80559",
+   "isValid": "",
+   "phrase": "Niemand zeichnet Drachen so, wie sie sich fühlen",
+   "x": false
+  },
+  {
+   "id": "80560",
+   "isValid": "",
+   "phrase": "Ich hab gerade 30 Euro im Lotto gewonnen!! Ich bin ein freier Mann",
+   "x": false
+  },
+  {
+   "id": "80561",
+   "isValid": "",
+   "phrase": "Dieser Plätzchenteig im Kühlschrank hat mich lange genug an der Nase rumgeführt",
+   "x": false
+  },
+  {
+   "id": "80562",
+   "isValid": "",
+   "phrase": "Mein Barett wurde gerade vom Wind weggetragen. Ich hasse die Natur.",
+   "x": false
+  },
+  {
+   "id": "80563",
+   "isValid": "",
+   "phrase": "Hat jemand die Schlüssel für meinen italienischen Leder Massage-Sessel gesehen?",
+   "x": false
+  },
+  {
+   "id": "80564",
+   "isValid": "",
+   "phrase": "Theoretisch wäre das ein guter Moment um sich zu freuen.",
+   "x": false
+  },
+  {
+   "id": "80565",
+   "isValid": "",
+   "phrase": "Lass sie niemals mit Brett reden. Der ist immer schlecht gelaunt.",
+   "x": false
+  },
+  {
+   "id": "80566",
+   "isValid": "",
+   "phrase": "Was? Keine Nacktheit im Geschichtsmuseum-Andenkenladen? Wann lasst ihr Geschichte schreiben!?",
+   "x": true
+  },
+  {
+   "id": "80567",
+   "isValid": "",
+   "phrase": "Alles kann ein Sandwich sein, mit genug Entschlossenheit",
+   "x": false
+  },
+  {
+   "id": "80568",
+   "isValid": "",
+   "phrase": "Wenn ich mich Blau fühle, dann bin ich Da ba de, da ba dei",
+   "x": false
+  },
+  {
+   "id": "80569",
+   "isValid": "",
+   "phrase": "Für dieses Abenteuer brauche ich eine Lederjacke",
+   "x": false
+  },
+  {
+   "id": "80570",
+   "isValid": "",
+   "phrase": "Zwischen mir und dem Psychologen sprühen die Funken",
+   "x": false
+  },
+  {
+   "id": "80571",
+   "isValid": "",
+   "phrase": "DNA besteht aus drei Stoffen. Keine Ahnung welche das sind, aber einer davon muss Käse sein",
+   "x": false
+  },
+  {
+   "id": "80572",
+   "isValid": "",
+   "phrase": "Lass uns bis 3 zählen und dann alle zu diesem Satz hüpfen",
+   "x": false
+  },
+  {
+   "id": "80573",
+   "isValid": "",
+   "phrase": "Ich webe einen Schal um so schnell wie möglich Europa damit zuzudecken",
+   "x": false
+  },
+  {
+   "id": "80574",
+   "isValid": "",
+   "phrase": "Bin das nur ich, oder ist es schwer durch Erpressung Freunde zu gewinnen?",
+   "x": false
+  },
+  {
+   "id": "80575",
+   "isValid": "",
+   "phrase": "Das Gras ist woanders grüner, weil wir in einer Tundra in einer Pappbox leben",
+   "x": false
+  },
+  {
+   "id": "80576",
+   "isValid": "",
+   "phrase": "Scheint, als ob sich jeder überall auf einmal nur unter die Leute mischen und boogie machen will",
+   "x": false
+  },
+  {
+   "id": "80577",
+   "isValid": "",
+   "phrase": "Ich brauch ein paar Werkzeuge, wenn das Brötchen bis Mitternacht fertig sein soll",
+   "x": false
+  },
+  {
+   "id": "80578",
+   "isValid": "",
+   "phrase": "Bei Mensch ärgere dich nicht, ärgert sich der Mensch nicht. Meistens.",
+   "x": false
+  },
+  {
+   "id": "80579",
+   "isValid": "",
+   "phrase": "Diese Antiken Sachen wurden nicht in einem Kängurubeutel gefunden",
+   "x": false
+  },
+  {
+   "id": "80580",
+   "isValid": "",
+   "phrase": "Gib mir ein Bild von deinem Schatten, für den Typen den ich so mag",
+   "x": false
+  },
+  {
+   "id": "80581",
+   "isValid": "",
+   "phrase": "Blitz und Donner macht mir keine Angst. Nur das RTL Nachmittagsprogramm.",
+   "x": false
+  },
+  {
+   "id": "80582",
+   "isValid": "",
+   "phrase": "Wir erleben ein Abenteuer ohne Boden oder Deckel.",
+   "x": false
+  },
+  {
+   "id": "80583",
+   "isValid": "",
+   "phrase": "Freu dich nicht zu früh, wir haben noch nicht den nötigen Sprengstoff",
+   "x": false
+  },
+  {
+   "id": "80964",
+   "isValid": "",
+   "phrase": "Das Monster greift die Stadt an! Nicht mit Gewalt, sondern mit Worten!!!",
+   "x": false
+  },
+  {
+   "id": "81321",
+   "isValid": "",
+   "phrase": "Wenn du jemanden findest, der Teppich schneiden kann, hast du es geschafft",
+   "x": false
+  },
+  {
+   "id": "81322",
+   "isValid": "",
+   "phrase": "Ein Feuer zu machen benötigt starken Willen und... Brennbares.",
+   "x": false
+  },
+  {
+   "id": "81323",
+   "isValid": "",
+   "phrase": "Bitte lagere in einem dunklen Platz, mit genug Raum zum wachsen",
+   "x": false
+  },
+  {
+   "id": "81324",
+   "isValid": "",
+   "phrase": "Meine Oma sagte, Pilze sammeln hält den Körper jung und den Geist frisch",
+   "x": false
+  },
+  {
+   "id": "81325",
+   "isValid": "",
+   "phrase": "Aaargh Madrosen! Siehd so aus als hädden wor ne Landradde an Bord!",
+   "x": false
+  },
+  {
+   "id": "81326",
+   "isValid": "",
+   "phrase": "Heute Morgen wachte ich von einem schrecklichen Traum auf. Ich war ein Versicherungsvertreter",
+   "x": false
+  },
+  {
+   "id": "81327",
+   "isValid": "",
+   "phrase": "Hunde, Katzen und Spinnen sind nur ein paar Tiere die gerne kuscheln",
+   "x": false
+  },
+  {
+   "id": "81328",
+   "isValid": "",
+   "phrase": "Ich versuche manchmal mit der Frau zu reden, die in klaren Nächten vor meinem Fenster schwebt",
+   "x": false
+  },
+  {
+   "id": "81329",
+   "isValid": "",
+   "phrase": "Mein Leben liegt in Trümmern, aber wenigstens ist meine Blume gewachsen",
+   "x": false
+  },
+  {
+   "id": "81603",
+   "isValid": "",
+   "phrase": "“Verschwene nicht, wolle nicht” sagen sie. Aber was ist wenn man was verschwenden WILL?",
+   "x": false
+  },
+  {
+   "id": "81604",
+   "isValid": "",
+   "phrase": "Ja, er ist mein treues Ross. Aber er ist noch viel mehr.",
+   "x": false
+  },
+  {
+   "id": "81605",
+   "isValid": "",
+   "phrase": "Ich brauch keine Hilfe, nur etwa 200.000 Euro um eine Firma zu starten.",
+   "x": false
+  },
+  {
+   "id": "81606",
+   "isValid": "",
+   "phrase": "Romeo und Julia waren hoffnungslos verliebt, aber sogar bei denen endete das nicht gut",
+   "x": false
+  },
+  {
+   "id": "81607",
+   "isValid": "",
+   "phrase": "Nichts auf dieser Welt macht mich glücklich. Ausser andere unglücklicher zu sehen.",
+   "x": false
+  },
+  {
+   "id": "81608",
+   "isValid": "",
+   "phrase": "Zwischen dir und mir kann ich meinen Kopf nicht noch weiter drehen.",
+   "x": false
+  },
+  {
+   "id": "81609",
+   "isValid": "",
+   "phrase": "Für diese Sache musst du viel machen, aber zuerst brauchst du Thunfisch.",
+   "x": false
+  },
+  {
+   "id": "81611",
+   "isValid": "",
+   "phrase": "Ich gebe mein bestes unattraktiv zu sein, aber du hast immer wieder Schokolade.",
+   "x": false
+  },
+  {
+   "id": "81612",
+   "isValid": "",
+   "phrase": "Ich glaube die Titanic wäre nicht versunken, wenn sie ganz klein gewesen wäre.",
+   "x": false
+  },
+  {
+   "id": "81613",
+   "isValid": "",
+   "phrase": "Bisschen Lo-Fi, bisschen Techno, bisschen Dupstep... Damit läuft das Leben",
+   "x": false
+  },
+  {
+   "id": "81859",
+   "isValid": "",
+   "phrase": "Ich bin berühmt auf Social Media Plattformen, die keiner kennt",
+   "x": false
+  },
+  {
+   "id": "81860",
+   "isValid": "",
+   "phrase": "Ich bezahl für Werbefrei, wenn das geht",
+   "x": false
+  },
+  {
+   "id": "81861",
+   "isValid": "",
+   "phrase": "Mein Bäuchlein, das grummelt wenn die Mikrowelle bummelt!",
+   "x": false
+  },
+  {
+   "id": "81862",
+   "isValid": "",
+   "phrase": "Mama sagte ich war der beste, aber das muss sie halt sagen",
+   "x": false
+  },
+  {
+   "id": "81863",
+   "isValid": "",
+   "phrase": "Ich hab Zeit nach dem Essen, aber ich lerne da lieber",
+   "x": false
+  },
+  {
+   "id": "81864",
+   "isValid": "",
+   "phrase": "Zwei Tickets nach Mallorca bitte.",
+   "x": false
+  },
+  {
+   "id": "81865",
+   "isValid": "",
+   "phrase": "Lufthansa hat mich heute zu ihrem Feind gemacht",
+   "x": false
+  },
+  {
+   "id": "81866",
+   "isValid": "",
+   "phrase": "Ich habe einen Sohn, aber er ist sehr klein, sei vorsichtig",
+   "x": false
+  },
+  {
+   "id": "81867",
+   "isValid": "",
+   "phrase": "Wissen Kinder noch, was Polaroids sind???",
+   "x": false
+  },
+  {
+   "id": "81869",
+   "isValid": "",
+   "phrase": "Wow! Zwölf Flugzeuge in einer Reihe!",
+   "x": false
+  },
+  {
+   "id": "81870",
+   "isValid": "",
+   "phrase": "Karaoke ist nicht mein grösstes Talent, aber mein lautestes.",
+   "x": false
+  },
+  {
+   "id": "81871",
+   "isValid": "",
+   "phrase": "Ich hab viele beschissene Erinnerungen, fassen wir es zusammen",
+   "x": false
+  },
+  {
+   "id": "81872",
+   "isValid": "",
+   "phrase": "Wir haben 21 wunderbare Sprudelwasser in der Küche.",
+   "x": false
+  },
+  {
+   "id": "81873",
+   "isValid": "",
+   "phrase": "Skifahren ist toll für den Geist, nicht so toll für die Knie",
+   "x": false
+  },
+  {
+   "id": "81874",
+   "isValid": "",
+   "phrase": "Ich hätte dieses ganze Pulver nicht essen sollen",
+   "x": false
+  },
+  {
+   "id": "81875",
+   "isValid": "",
+   "phrase": "Irgendwann sind wir alle Krabben",
+   "x": false
+  },
+  {
+   "id": "81876",
+   "isValid": "",
+   "phrase": "Ich bin enttäuscht, aber nicht überrascht. Eistee?",
+   "x": false
+  },
+  {
+   "id": "81978",
+   "isValid": "",
+   "phrase": "Wegen den Metadaten kann ich dieses JPEG nicht hochladen.",
+   "x": false
+  },
+  {
+   "id": "81979",
+   "isValid": "",
+   "phrase": "Jetzt denke ich an das Innere meiner Knochen. Danke dafür",
+   "x": false
+  },
+  {
+   "id": "81980",
+   "isValid": "",
+   "phrase": "Ich fühle einen Motivationsschub! Das ist schnell behoben mit Traurigkeit.",
+   "x": false
+  },
+  {
+   "id": "81981",
+   "isValid": "",
+   "phrase": "Mach dir um mich keine Sorgen. Ich schlafe im Auto.",
+   "x": false
+  },
+  {
+   "id": "81982",
+   "isValid": "",
+   "phrase": "Oh! Was ein toller Tag um jemandes Hochzeitsfotos zu versauen!",
+   "x": false
+  },
+  {
+   "id": "81983",
+   "isValid": "",
+   "phrase": "Ich bin einen Marathon gelaufen. Eigentlich nicht, aber du glaubst das, oder?",
+   "x": false
+  },
+  {
+   "id": "81984",
+   "isValid": "",
+   "phrase": "Wow! Das ist echt ein cooles Leder ... Ding.",
+   "x": false
+  },
+  {
+   "id": "81985",
+   "isValid": "",
+   "phrase": "Ich bin in 5 Minuten zurück, bitte falle nicht in Ohnmacht",
+   "x": false
+  },
+  {
+   "id": "81986",
+   "isValid": "",
+   "phrase": "Seltsamerweise hat das Krankenhaus das beste Frühstück der Stadt",
+   "x": false
+  },
+  {
+   "id": "81987",
+   "isValid": "",
+   "phrase": "Schaut euch Mr. Ich kann noch Mathe aus der 6. Klasse an!",
+   "x": false
+  },
+  {
+   "id": "81988",
+   "isValid": "",
+   "phrase": "Meine Eifersucht ist normal und gesund und wird mich nicht von innen auffressen.",
+   "x": false
+  },
+  {
+   "id": "81989",
+   "isValid": "",
+   "phrase": "Ich hab keinen Cowboyhut. Aber ich hätte gern einen.",
+   "x": false
+  },
+  {
+   "id": "82023",
+   "isValid": "",
+   "phrase": "Ich hab einen Doktor in Ist mir egal und eine Ausbildung im Lass mich in Ruhe",
+   "x": false
+  },
+  {
+   "id": "82024",
+   "isValid": "",
+   "phrase": "Mir ist klar, das ist eine Heldengeschichte, aber du bist eher so der Sidekick.",
+   "x": false
+  },
+  {
+   "id": "82025",
+   "isValid": "",
+   "phrase": "Ahh schaut mal wer da mal aufgetaucht ist.",
+   "x": false
+  },
+  {
+   "id": "82026",
+   "isValid": "",
+   "phrase": "Du hast nerven, mit DEM Gesicht hier aufzutauchen",
+   "x": false
+  },
+  {
+   "id": "82027",
+   "isValid": "",
+   "phrase": "Jooo, ich hab keine Blähungen, das sind nur diese ganzen Gefühle hier drin",
+   "x": false
+  },
+  {
+   "id": "82029",
+   "isValid": "",
+   "phrase": "Was für ein toller Tag um 22:01 die Polizei wegen Ruhestörung zu rufen!",
+   "x": false
+  },
+  {
+   "id": "82030",
+   "isValid": "",
+   "phrase": "Sturmwarnung! Alle auf die Couch und Netflix anschalten!",
+   "x": false
+  },
+  {
+   "id": "82031",
+   "isValid": "",
+   "phrase": "Leute haben gewählt: Ein Taco ist kein Sandwich.",
+   "x": false
+  },
+  {
+   "id": "82032",
+   "isValid": "",
+   "phrase": "Das schönste am Weihnachtsessen sind die Bauchschmerzen danach.",
+   "x": false
+  },
+  {
+   "id": "82033",
+   "isValid": "",
+   "phrase": "Die besten Krabben haben grosse Klauen und noch grössere Herzen",
+   "x": false
+  },
+  {
+   "id": "82034",
+   "isValid": "",
+   "phrase": "Viele dieser Roboter-Autos sind Single - gute Nachrichten für mich",
+   "x": false
+  },
+  {
+   "id": "82035",
+   "isValid": "",
+   "phrase": "Ein tolles Telefon sollte Anrufe tätigen können",
+   "x": false
+  },
+  {
+   "id": "82036",
+   "isValid": "",
+   "phrase": "Manche alte Tische sehen aus wie Nieren",
+   "x": false
+  },
+  {
+   "id": "82037",
+   "isValid": "",
+   "phrase": "Die Zeit der Vögel ist vorbei! Es wird Zeit für SCHLAUE Vögel.",
+   "x": false
+  },
+  {
+   "id": "82038",
+   "isValid": "",
+   "phrase": "Stell dir die beeindruckendste Statue vor. Jetzt setz einen Hut drauf",
+   "x": false
+  },
+  {
+   "id": "82039",
+   "isValid": "",
+   "phrase": "Ich hatte Angst eine Bretzel zu kaufen, denn da waren 4 Jugendliche",
+   "x": false
+  },
+  {
+   "id": "82040",
+   "isValid": "",
+   "phrase": "Baue dein Haus nicht aus Stöcken.",
+   "x": false
+  },
+  {
+   "id": "82041",
+   "isValid": "",
+   "phrase": "Der Kuchen war voller Ameisen, die hatten wohl heute Frei",
+   "x": false
+  },
+  {
+   "id": "82042",
+   "isValid": "",
+   "phrase": "Du kannst so viele Zeitungen verbrennen wie du willst. Erzähl das nur keinem",
+   "x": false
+  },
+  {
+   "id": "82043",
+   "isValid": "",
+   "phrase": "lol woher soll ich wissen wie ein Deckenventilator funktioniert",
+   "x": false
+  },
+  {
+   "id": "82044",
+   "isValid": "",
+   "phrase": "Du kannst so viele Pfirsiche essen wie du willst, der Weihnachtsmann kommt dennoch nicht früher",
+   "x": false
+  },
+  {
+   "id": "82045",
+   "isValid": "",
+   "phrase": "BRUMM BRUMM macht das Motorrad. Auch wenn du das nicht willst.",
+   "x": false
+  },
+  {
+   "id": "82046",
+   "isValid": "",
+   "phrase": "Tief im Meer ist es dunkel. Aber die Fische schwimmen trotzdem und machen ihr Ding",
+   "x": false
+  },
+  {
+   "id": "82047",
+   "isValid": "",
+   "phrase": "Klammer dich nicht an meinen Style",
+   "x": false
+  },
+  {
+   "id": "82048",
+   "isValid": "",
+   "phrase": "Magier sind Lügner und Betrüger! Also nein, ich wähle KEINE Karte.",
+   "x": false
+  },
+  {
+   "id": "82049",
+   "isValid": "",
+   "phrase": "Hey, Hallo, ähm sorry, wie viel Toast muss ich noch essen bis ich satt bin?",
+   "x": false
+  },
+  {
+   "id": "82050",
+   "isValid": "",
+   "phrase": "Wenn sie singt, musst du mit hoch und runter gehen",
+   "x": false
+  },
+  {
+   "id": "82051",
+   "isValid": "",
+   "phrase": "Mach Wasser und Pulver in den Topf. Warte. Das ist Suppe.",
+   "x": false
+  },
+  {
+   "id": "82052",
+   "isValid": "",
+   "phrase": "Gib mir einen Hot Dog! Als Oberarzt esse ich bei Operationen besonders gerne",
+   "x": false
+  },
+  {
+   "id": "82053",
+   "isValid": "",
+   "phrase": "Mein Vater spielt Jazz wie ein Kind Schach: Wild und Willkürlich",
+   "x": false
+  },
+  {
+   "id": "82054",
+   "isValid": "",
+   "phrase": "Meine Lieblingsmuscials wurden nie geschrieben",
+   "x": false
+  },
+  {
+   "id": "82055",
+   "isValid": "",
+   "phrase": "Jeder Trottel kann einen Hasen aus nem Hut ziehen. Aber Teppich verlegen, das ist krass.",
+   "x": false
+  },
+  {
+   "id": "82056",
+   "isValid": "",
+   "phrase": "Ah, jeder kann jetzt Influencer sein? Wofür muss ich dann Arbeiten gehen?",
+   "x": false
+  },
+  {
+   "id": "82057",
+   "isValid": "",
+   "phrase": "Der beste Weg einen Waldbrand auszulösen ist, extrem bösartig zu sein",
+   "x": false
+  },
+  {
+   "id": "82058",
+   "isValid": "",
+   "phrase": "Jeder Schmetterling war mal eine Raupe. Und irgendwann werden die zu Roboter-Schmetterlingen",
+   "x": false
+  },
+  {
+   "id": "82059",
+   "isValid": "",
+   "phrase": "Wenn ich hunger habe rufe ich meine Eltern an und heule rum, dass ich geboren wurde",
+   "x": false
+  },
+  {
+   "id": "82060",
+   "isValid": "",
+   "phrase": "Du kannst jedes Tier zähmen, aber nur wenige werden sich darüber freuen",
+   "x": false
+  },
+  {
+   "id": "82061",
+   "isValid": "",
+   "phrase": "Es gibt keinen schlechten Moment für ein Gitarrensolo.",
+   "x": false
+  },
+  {
+   "id": "82062",
+   "isValid": "",
+   "phrase": "Sie ist gut im Wrestling, aber sie trinkt nicht genug",
+   "x": false
+  },
+  {
+   "id": "82211",
+   "isValid": "",
+   "phrase": "Sie sagen immer ich soll das Flugzeug verlassen. Was wurde aus Guten Morgen!?",
+   "x": false
+  },
+  {
+   "id": "82212",
+   "isValid": "",
+   "phrase": "Das tollste was ich besitze ist ein blaues, kleines Handtuch",
+   "x": false
+  },
+  {
+   "id": "82213",
+   "isValid": "",
+   "phrase": "Permanentmarker sind so permanent wie schlechte Erinnerungen",
+   "x": false
+  },
+  {
+   "id": "82214",
+   "isValid": "",
+   "phrase": "Ich könnte jetzt echt was zu essen gebrauchen",
+   "x": true
+  },
+  {
+   "id": "82215",
+   "isValid": "",
+   "phrase": "Entstauben ist keine Hausarbeit, sondern Folter",
+   "x": true
+  },
+  {
+   "id": "82216",
+   "isValid": "",
+   "phrase": "Mir ist Eiscremekuchen egal und das sollte auch so sein",
+   "x": false
+  },
+  {
+   "id": "82217",
+   "isValid": "",
+   "phrase": "Alufolie ist der Ursprung von Aggression",
+   "x": false
+  },
+  {
+   "id": "82218",
+   "isValid": "",
+   "phrase": "Mein Schreibtisch ist der beste Esstisch",
+   "x": false
+  },
+  {
+   "id": "82219",
+   "isValid": "",
+   "phrase": "Eine gute Kartoffelsuppe ist SO viel mehr als nur ein Essen.",
+   "x": false
+  },
+  {
+   "id": "82220",
+   "isValid": "",
+   "phrase": "Faulheit und zu viel Freizeit ist perfekt für jeden Einkaufszentrum-Weihnachtsmann",
+   "x": false
+  },
+  {
+   "id": "82221",
+   "isValid": "",
+   "phrase": "Gib niemandem dein ganzes Herz, das brauchst du nämlich",
+   "x": false
+  },
+  {
+   "id": "82222",
+   "isValid": "",
+   "phrase": "Raste nicht aus, aber die Polizei ist draussen und hat paar Fragen wegen Roxanne.",
+   "x": false
+  },
+  {
+   "id": "82223",
+   "isValid": "",
+   "phrase": "Meine Katze mag nur den Faden, die Brieftasche voll Geld interessiert die nicht",
+   "x": false
+  },
+  {
+   "id": "82224",
+   "isValid": "",
+   "phrase": "Ich hab eine Bibliothek voll mit Argumenten die ich dir an den Kopf werfen kann",
+   "x": false
+  },
+  {
+   "id": "82225",
+   "isValid": "",
+   "phrase": "Jeder sollte einen Käsebehälter zum Transport dabeihaben",
+   "x": false
+  },
+  {
+   "id": "82226",
+   "isValid": "",
+   "phrase": "All die Kreaturen der Nacht sind eigentlich Freunde von mir",
+   "x": false
+  },
+  {
+   "id": "82227",
+   "isValid": "",
+   "phrase": "YABADABADOO!! Da. Ich habs gesagt. Und fühle mich nicht lustig.",
+   "x": false
+  },
+  {
+   "id": "82228",
+   "isValid": "",
+   "phrase": "Der einzige Trend den ich zurück will, sind grosse Boomboxen.",
+   "x": false
+  },
+  {
+   "id": "82229",
+   "isValid": "",
+   "phrase": "Ich packe Chillipulver in meinen Sauerstofftank um schärfer zu denken.",
+   "x": false
+  },
+  {
+   "id": "82230",
+   "isValid": "",
+   "phrase": "Ich denke ich bin sehr intelligent, aber ich hab absolut keine Ahnung von der Asiatischen Karte.",
+   "x": false
+  },
+  {
+   "id": "82231",
+   "isValid": "",
+   "phrase": "Ja, ich habe Rasurwunden am Fuss, welchen ich stündlich rasiere. Problem damit?",
+   "x": false
+  },
+  {
+   "id": "82232",
+   "isValid": "",
+   "phrase": "Paprika ist eklig und sollte aus der Nahrung verbannt werden. Anzeige ist raus",
+   "x": false
+  },
+  {
+   "id": "82233",
+   "isValid": "",
+   "phrase": "Mein Küchenschrank verweigert gewaltsam jede Aufnahme von Tupperdosen",
+   "x": false
+  },
+  {
+   "id": "82235",
+   "isValid": "",
+   "phrase": "Wenn du eine Antilope mit einer Ente und einem Bieber kreuzt, bekommst du nen interessanten Kumpel",
+   "x": false
+  },
+  {
+   "id": "82236",
+   "isValid": "",
+   "phrase": "Was hat eigentlich die Milch erlebt, wenn sie sauer ist? Darüber sollte man mal reden",
+   "x": false
+  },
+  {
+   "id": "82237",
+   "isValid": "",
+   "phrase": "Klar, das ist ein zwei-Mann Kayak, aber es ist sowieso komplett platonisch",
+   "x": false
+  },
+  {
+   "id": "82238",
+   "isValid": "",
+   "phrase": "Ich hab dein Zwinkern vermutlich missverstanden, aber hier sind die Goldmünzen",
+   "x": false
+  },
+  {
+   "id": "82239",
+   "isValid": "",
+   "phrase": "Hör zu, ich werde hier jetzt niemandem eine klatschen. Aber es besteht die Chance, dass das später passiert",
+   "x": false
+  },
+  {
+   "id": "82240",
+   "isValid": "",
+   "phrase": "Das meist gehasste Instrument sollte dieser klingelnde Bastard sein, die Triangel",
+   "x": true
+  },
+  {
+   "id": "82241",
+   "isValid": "",
+   "phrase": "Ich habe Viele aus dem Mittelteil gerettet, aber leider nicht alle",
+   "x": false
+  },
+  {
+   "id": "82805",
+   "isValid": "",
+   "phrase": "Ich hab gerade gemerkt: Es gab nie eine Zeit, wo ich keinen Wachsmalstift in die Nase stecken wollte",
+   "x": false
+  },
+  {
+   "id": "82806",
+   "isValid": "",
+   "phrase": "Die Kerze flimmert majestätisch im Flur, während das Monster das Schloss beobachtete",
+   "x": false
+  },
+  {
+   "id": "82807",
+   "isValid": "",
+   "phrase": "Ich denke die drei Gründerväter waren Freimaurer, dass heisst, sie haben gratis Steine gehauen",
+   "x": false
+  },
+  {
+   "id": "82808",
+   "isValid": "",
+   "phrase": "Taranteln schmecken wie Hummer, aber das ist den Leuten nicht fein genug",
+   "x": false
+  },
+  {
+   "id": "82809",
+   "isValid": "",
+   "phrase": "Ich habe einen Master in genialität und coolness. Ja das ist richtig, Schätzchen",
+   "x": false
+  },
+  {
+   "id": "82810",
+   "isValid": "",
+   "phrase": "Sie hat 7 Brillen gekauft, aber aufgrund ihrer Krankheit hat sie alle Linkshändigen gespendet",
+   "x": false
+  },
+  {
+   "id": "82811",
+   "isValid": "",
+   "phrase": "Kontrovers: Viele Gemüse sind eigentlich Früchte. Googelt das mal. Die Gemüselobby lügt!!",
+   "x": false
+  },
+  {
+   "id": "82814",
+   "isValid": "",
+   "phrase": "Ich mische vegetarische Austernsauce, Limettensaft, zerdrückten Knoblauch und Ingwer in eine Tüte und lasse meine Haare darin sitzen.",
+   "x": false
+  },
+  {
+   "id": "82815",
+   "isValid": "",
+   "phrase": "Sie ist hibbelig Frank, lass sie doch Klavier spielen",
+   "x": false
+  },
+  {
+   "id": "82834",
+   "isValid": "",
+   "phrase": "Oh du musst dich nicht schlecht fühlen, das ist ein toller Salat",
+   "x": false
+  },
+  {
+   "id": "82836",
+   "isValid": "",
+   "phrase": "Ich hab nicht erwartet, von Käfern belästigt zu werden",
+   "x": false
+  },
+  {
+   "id": "82837",
+   "isValid": "",
+   "phrase": "Ich sollte mich schämen, Trampolinverhalten zu fördern",
+   "x": false
+  },
+  {
+   "id": "82838",
+   "isValid": "",
+   "phrase": "\"Kannst du mir ein Club-Sandwich machen?\" knurrte er",
+   "x": false
+  },
+  {
+   "id": "82839",
+   "isValid": "",
+   "phrase": "Ich lade meine Wäsche nur kurz von der Waschmaschine zum Trockner",
+   "x": false
+  },
+  {
+   "id": "82840",
+   "isValid": "",
+   "phrase": "Ohh! Was für ein Haufen lustiger Gewürze",
+   "x": false
+  },
+  {
+   "id": "82841",
+   "isValid": "",
+   "phrase": "Netter, frischer Becher voll von diversen Säften",
+   "x": false
+  },
+  {
+   "id": "82842",
+   "isValid": "",
+   "phrase": "Mein Boss lebt in Bielefeld und das gefällt mir",
+   "x": false
+  },
+  {
+   "id": "82843",
+   "isValid": "",
+   "phrase": "Wärst du gerne bei uns dabei um schlechte Laune zu haben?",
+   "x": false
+  },
+  {
+   "id": "82844",
+   "isValid": "",
+   "phrase": "Eine Rede auswendig zu lernen ist für Lügner und Loser!",
+   "x": false
+  },
+  {
+   "id": "82845",
+   "isValid": "",
+   "phrase": "Hab im Wald ein Kind rufen gehört. Aber das wird schon nix sein",
+   "x": false
+  },
+  {
+   "id": "82846",
+   "isValid": "",
+   "phrase": "Ich finde den Mangel an Um-Pah-Pah frustrierend",
+   "x": false
+  },
+  {
+   "id": "82847",
+   "isValid": "",
+   "phrase": "Hey! Das ist Karl. Er ist mein Axolotl-Freund",
+   "x": false
+  },
+  {
+   "id": "82848",
+   "isValid": "",
+   "phrase": "Passion mag ich am meisten bei Leuten und Früchten",
+   "x": false
+  },
+  {
+   "id": "82849",
+   "isValid": "",
+   "phrase": "Ich habe ein Expressticket zur Bösartigkeit. Fährst du mit?",
+   "x": false
+  },
+  {
+   "id": "82850",
+   "isValid": "",
+   "phrase": "Hast du diesen Trommelwirbel gesehen? Den kann man buchen",
+   "x": false
+  },
+  {
+   "id": "82851",
+   "isValid": "",
+   "phrase": "Komm schnell rüber! Nathanael kann jetzt grillen",
+   "x": false
+  },
+  {
+   "id": "82852",
+   "isValid": "",
+   "phrase": "Ich hab ein Schneidebrett und du hast ein Schneidebrett. Zack! Zwei Schneidebretter",
+   "x": false
+  },
+  {
+   "id": "82854",
+   "isValid": "",
+   "phrase": "Es ist eine schlechte Zeit. Für Weizen und für Reality-TV",
+   "x": false
+  },
+  {
+   "id": "82855",
+   "isValid": "",
+   "phrase": "Bitte mach bei meinen Tischspielen mit. Alle meine Freunde sind in der Nachtschule",
+   "x": false
+  },
+  {
+   "id": "83932",
+   "isValid": "",
+   "phrase": "Ich bin ein verdammter Clown",
+   "x": false
+  },
+  {
+   "id": "83933",
+   "isValid": "",
+   "phrase": "Von Kevin belehrt werden... warum",
+   "x": false
+  },
+  {
+   "id": "83934",
+   "isValid": "",
+   "phrase": "Holen wir uns Kookies und Kweam",
+   "x": false
+  },
+  {
+   "id": "83935",
+   "isValid": "",
+   "phrase": "Oh! Verzeihung, das ist eine Eidechse",
+   "x": false
+  },
+  {
+   "id": "83936",
+   "isValid": "",
+   "phrase": "Medizinische Praktika, warum!?",
+   "x": false
+  },
+  {
+   "id": "83937",
+   "isValid": "",
+   "phrase": "\"Fischers Fritz fischt frische Fische\"",
+   "x": false
+  },
+  {
+   "id": "83938",
+   "isValid": "",
+   "phrase": "Das ist echt ein fürchterliches Filmfestival",
+   "x": false
+  },
+  {
+   "id": "83939",
+   "isValid": "",
+   "phrase": "200€ für Sitzplätze, 20€ zum stehen und weinen",
+   "x": false
+  },
+  {
+   "id": "83940",
+   "isValid": "",
+   "phrase": "Ein toller Schinken, Salat und Tomaten!",
+   "x": false
+  },
+  {
+   "id": "83941",
+   "isValid": "",
+   "phrase": "Du hast diese Ente nicht gesehen, oder?",
+   "x": false
+  },
+  {
+   "id": "83942",
+   "isValid": "",
+   "phrase": "Vergleichen? Nein, ich bevorzuge wütend sein",
+   "x": false
+  },
+  {
+   "id": "83943",
+   "isValid": "",
+   "phrase": "Mein kleines Tagebuch ist voller süsser Zeichnungen",
+   "x": false
+  },
+  {
+   "id": "83944",
+   "isValid": "",
+   "phrase": "In der Oberschule war ich im Töpferkurs",
+   "x": false
+  },
+  {
+   "id": "83945",
+   "isValid": "",
+   "phrase": "Händchen halten ist mir vieeeel zu intim",
+   "x": false
+  },
+  {
+   "id": "83946",
+   "isValid": "",
+   "phrase": "Ugh, ich mochte Rollschuhe noch nie",
+   "x": false
+  },
+  {
+   "id": "83950",
+   "isValid": "",
+   "phrase": "Ich hab noch nie einen viktorianischen Geist getroffen, den ich nicht mochte",
+   "x": false
+  },
+  {
+   "id": "83951",
+   "isValid": "",
+   "phrase": "Es sollten mehr Leute über kleine Wolken reden, die wie Herzchen aussehen",
+   "x": false
+  },
+  {
+   "id": "83952",
+   "isValid": "",
+   "phrase": "Ich hab beim Rosen riechen gemerkt, dass ich meine Nase Zuhause vergessen hab",
+   "x": false
+  },
+  {
+   "id": "83953",
+   "isValid": "",
+   "phrase": "Ich harmoniere mit meinem Nachbarn jeden Tag, aber das hohe E kriegt er einfach nicht hin",
+   "x": false
+  },
+  {
+   "id": "83954",
+   "isValid": "",
+   "phrase": "Ich brauch keine Hilfe oder Freunde, ich habe einen Jet und ne coole Sonnenbrille",
+   "x": false
+  },
+  {
+   "id": "83956",
+   "isValid": "",
+   "phrase": "Du bist dein eigener Herr, aber Jeff kümmert sich erstmal um dein Schicksal",
+   "x": false
+  },
+  {
+   "id": "83957",
+   "isValid": "",
+   "phrase": "Du kannst reinkommen, aber lass deine matschigen Schuhe an der Tür",
+   "x": false
+  },
+  {
+   "id": "83958",
+   "isValid": "",
+   "phrase": "Ich nenne meinen Sohn Gertrude, nach dem Vorbild seiner Oma",
+   "x": true
+  },
+  {
+   "id": "83959",
+   "isValid": "",
+   "phrase": "Ich brauche Seelenfrieden oder eine Vodka-Cola, ich bin mir noch nicht sicher",
+   "x": true
+  },
+  {
+   "id": "83960",
+   "isValid": "",
+   "phrase": "La La La ich hör euch gar nicht, wie war das?",
+   "x": false
+  },
+  {
+   "id": "83961",
+   "isValid": "",
+   "phrase": "Ich sollte mich mit Max Mustermann treffen, aber er ist wieder nicht erschienen",
+   "x": false
+  },
+  {
+   "id": "83962",
+   "isValid": "",
+   "phrase": "Nach einem langen Tag nehm ich mein Gehirn und lass es auf dem Fensterbrett ruhen",
+   "x": false
+  },
+  {
+   "id": "83963",
+   "isValid": "",
+   "phrase": "Mein Zuhause wird irgendwann ein historisches Denkmal sein",
+   "x": false
+  },
+  {
+   "id": "83964",
+   "isValid": "",
+   "phrase": "Was haben alle mit Günther Jauch, der weiss auch nicht alles!",
+   "x": false
+  },
+  {
+   "id": "83965",
+   "isValid": "",
+   "phrase": "Wenn du noch kein frittiertes Hundeleckerli an nem wilden Samstagabend hattest, bist du ein Quadrat.",
+   "x": false
+  },
+  {
+   "id": "83966",
+   "isValid": "",
+   "phrase": "Die Regierung ist mir auf die Schliche gekommen, keine billigen Schokoliköre mehr",
+   "x": true
+  },
+  {
+   "id": "83967",
+   "isValid": "",
+   "phrase": "Ich hab mir ne Violine zum üben gekauft, aber ich hasse Instrumente mit Saiten",
+   "x": false
+  },
+  {
+   "id": "83968",
+   "isValid": "",
+   "phrase": "Hatte gerade Fleisch, eine Papaya und eine halbe Kartoffel. Ich sterbe jetzt",
+   "x": false
+  },
+  {
+   "id": "83969",
+   "isValid": "",
+   "phrase": "Vorsicht, ich bin in meinem selbst gebastelten Go-Kart unterwegs",
+   "x": false
+  },
+  {
+   "id": "83975",
+   "isValid": "",
+   "phrase": "Sie ist schön, sie ist anmutig, sie isst den ganzen Teller auf",
+   "x": false
+  },
+  {
+   "id": "83976",
+   "isValid": "",
+   "phrase": "Punk wird zurückkommen, und meine Tante nimmt diesmal keine Gefangenen",
+   "x": false
+  },
+  {
+   "id": "83977",
+   "isValid": "",
+   "phrase": "Herr und Frau Schmidt, ich versichere Ihnen, ich will nur das schlechteste für Ihren Sohn",
+   "x": false
+  },
+  {
+   "id": "83978",
+   "isValid": "",
+   "phrase": "Ich hasse es, dass man einen Salat zum Essen bekommt, bevor man gefragt wird",
+   "x": false
+  },
+  {
+   "id": "83979",
+   "isValid": "",
+   "phrase": "Gehe heute zur öffentlichen Exekution, ich hoffe die Guillotine macht mit",
+   "x": false
+  },
+  {
+   "id": "83981",
+   "isValid": "",
+   "phrase": "Mein Nachbar lässt ständig seinen Zeppelin in meinen Garten",
+   "x": false
+  },
+  {
+   "id": "83982",
+   "isValid": "",
+   "phrase": "Du kannst pennen wenn du tot bist hahahaha",
+   "x": false
+  },
+  {
+   "id": "83985",
+   "isValid": "",
+   "phrase": "Ich hab dir gesagt, keine Drachen auf meiner Strandparty! Deswegen kämpfen wir",
+   "x": false
+  },
+  {
+   "id": "84005",
+   "isValid": "",
+   "phrase": "Therapie hat mir eine ganze neue Welt eröffnet. Das kann deine traurige Schildkröte auch",
+   "x": false
+  },
+  {
+   "id": "84006",
+   "isValid": "",
+   "phrase": "Drastische Zeiten erfordern drastische Massnahmen. Also hier, ein Sandwich auf nem Stock",
+   "x": false
+  },
+  {
+   "id": "84007",
+   "isValid": "",
+   "phrase": "Wir haben neulich so warmes Wetter. Liegt wohl am Vulkan",
+   "x": false
+  },
+  {
+   "id": "84008",
+   "isValid": "",
+   "phrase": "Ich bin ein Prinz! Eine Mejestät! Der Thronfolger von Gondor",
+   "x": false
+  },
+  {
+   "id": "84009",
+   "isValid": "",
+   "phrase": "Spinat gehört nicht auf den Teller. Und Artischocken schon gar nicht! Bäh!",
+   "x": false
+  },
+  {
+   "id": "84010",
+   "isValid": "",
+   "phrase": "Ich hab mal Preiselbeerensosse in nem Schuh gemacht.",
+   "x": false
+  },
+  {
+   "id": "84011",
+   "isValid": "",
+   "phrase": "Absolut gute Sosse, die von der Soiree der Zahnärztekammer im letzten Monat übrig geblieben ist.",
+   "x": false
+  },
+  {
+   "id": "84014",
+   "isValid": "",
+   "phrase": "Wahnsinnig, dass sie dem Hundeschlittenteam Mush zurufen, während die Hunde den Schnee in Matsch verwandeln!",
+   "x": false
+  },
+  {
+   "id": "84356",
+   "isValid": "",
+   "phrase": "Holt die Schraubenzieher, wir nehmen den Tierwarenladen auseinander",
+   "x": false
+  },
+  {
+   "id": "84357",
+   "isValid": "",
+   "phrase": "Wenn ein bärtiger Mann einen Hut hat, warum zeigt er nur ein paar Gesichtshaare und nicht alle?",
+   "x": false
+  },
+  {
+   "id": "84358",
+   "isValid": "",
+   "phrase": "Alles wird besser für die Hühner",
+   "x": false
+  },
+  {
+   "id": "84359",
+   "isValid": "",
+   "phrase": "Sie steckt im Stau fest, startet schonmal die Roboterparade",
+   "x": false
+  },
+  {
+   "id": "84360",
+   "isValid": "",
+   "phrase": "In Zukunft könnten Ballons mit Geld gefüllt sein, man kanns nie wissen",
+   "x": false
+  },
+  {
+   "id": "84361",
+   "isValid": "",
+   "phrase": "Bitte mach die Fettabschneider weg, bevor die explodieren",
+   "x": false
+  },
+  {
+   "id": "84362",
+   "isValid": "",
+   "phrase": "Ich würde Eintritt für mein Zuhause verlangen, wenn das nicht voller Schlangen wäre",
+   "x": false
+  },
+  {
+   "id": "84363",
+   "isValid": "",
+   "phrase": "Photosynthese ist wenn die Sonne und eine Pflanze sich ganz doll lieb haben glaube ich",
+   "x": false
+  },
+  {
+   "id": "84364",
+   "isValid": "",
+   "phrase": "Ralph schickt mir ständig Gutscheine die ich nicht will",
+   "x": false
+  },
+  {
+   "id": "84365",
+   "isValid": "",
+   "phrase": "Wenn ich alle Knochen gebrochen habe, ist mein Skelett zurückgesetzt",
+   "x": false
+  },
+  {
+   "id": "84366",
+   "isValid": "",
+   "phrase": "Bringe einem Mann das Angeln bei und er wirds nicht machen weil es langweilig ist",
+   "x": false
+  },
+  {
+   "id": "84367",
+   "isValid": "",
+   "phrase": "Du kannst alles gewinnen, wenn du danach Schachmatt sagst",
+   "x": false
+  },
+  {
+   "id": "84368",
+   "isValid": "",
+   "phrase": "Wörter sind wie Brücken, aber ich weiss nicht so ganz warum",
+   "x": false
+  },
+  {
+   "id": "84369",
+   "isValid": "",
+   "phrase": "Eine Hummerkralle an die Wand nageln? Das ist meine!",
+   "x": false
+  },
+  {
+   "id": "84370",
+   "isValid": "",
+   "phrase": "Blumen machen selbst das kleinste Regierungsgebäude elegant",
+   "x": false
+  },
+  {
+   "id": "84371",
+   "isValid": "",
+   "phrase": "Mutter lebt für die Butter jeden Tag",
+   "x": false
+  },
+  {
+   "id": "84372",
+   "isValid": "",
+   "phrase": "Mein Lieblingsfilm ist mit nem Typ und nem Pferd und das Pferd springt auf den Typen",
+   "x": false
+  },
+  {
+   "id": "84373",
+   "isValid": "",
+   "phrase": "Bitte frage mich nicht solche persönlichen Business-Fragen, Computerspiel",
+   "x": false
+  },
+  {
+   "id": "84374",
+   "isValid": "",
+   "phrase": "Nichts kommt an die Eleganz eines Sonnenuntergangs ran. Oder an den Nutzen eines Verlängerungskabels",
+   "x": false
+  },
+  {
+   "id": "84375",
+   "isValid": "",
+   "phrase": "Er ist der Typ auf der Party, der immer über Doppelpacks redet",
+   "x": false
+  },
+  {
+   "id": "84376",
+   "isValid": "",
+   "phrase": "Obst, Gemüse, Körner. Das sind die Dämonen die ich erlegen muss",
+   "x": false
+  },
+  {
+   "id": "84377",
+   "isValid": "",
+   "phrase": "Du sagst Autobahnüberfall als wäre es was schlechtes",
+   "x": false
+  },
+  {
+   "id": "84378",
+   "isValid": "",
+   "phrase": "Dieser Papagei war echt gemein zu vielen historischen Erfindern.",
+   "x": false
+  },
+  {
+   "id": "84379",
+   "isValid": "",
+   "phrase": "Du kannst eine Perrücke auf alles setzen. Glaub mir",
+   "x": false
+  },
+  {
+   "id": "84380",
+   "isValid": "",
+   "phrase": "Wein ist wütend, wenn die Trauben weinen",
+   "x": false
+  },
+  {
+   "id": "84382",
+   "isValid": "",
+   "phrase": "Lotion ist der Smoothie den deine Haut schlürfen will",
+   "x": false
+  },
+  {
+   "id": "84383",
+   "isValid": "",
+   "phrase": "Streite nicht mit Postautos. Die wissen wo du wohnst",
+   "x": false
+  },
+  {
+   "id": "84384",
+   "isValid": "",
+   "phrase": "Niemand weiss wie Gravitation funktioniert, weil die ist Unsichtbar",
+   "x": false
+  },
+  {
+   "id": "84385",
+   "isValid": "",
+   "phrase": "Oger sind nicht wie Zwiebeln. Denn Zwiebeln gibts gar nicht.",
+   "x": false
+  },
+  {
+   "id": "84386",
+   "isValid": "",
+   "phrase": "Kleiner Soldat plant immer alles. So spiele ich nicht Laser tag.",
+   "x": false
+  },
+  {
+   "id": "84755",
+   "isValid": "",
+   "phrase": "Ich sollte den Ball dunken. Also hab ich einen Eimer Milch geholt.",
+   "x": false
+  },
+  {
+   "id": "84756",
+   "isValid": "",
+   "phrase": "Was macht einen Mann aus? Strumpfhosen. Einsehen, einen Fehler gemacht zu haben",
+   "x": false
+  },
+  {
+   "id": "84758",
+   "isValid": "",
+   "phrase": "Als Hoosier geht es nicht darum, woher du kommst. Es geht darum, welche Sorte Mais deine Mutter gegessen hat.",
+   "x": false
+  },
+  {
+   "id": "84760",
+   "isValid": "",
+   "phrase": "Sie war langsam und präzise. Ihre Telepathie war makellos",
+   "x": false
+  },
+  {
+   "id": "84762",
+   "isValid": "",
+   "phrase": "Das letzte was ich von dir bekam war ein Einkaufszettel auf nem Taschentuch!",
+   "x": false
+  },
+  {
+   "id": "84764",
+   "isValid": "",
+   "phrase": "Wenn es nach mir gehen würde, wärst du ein Hai-Dompteur.",
+   "x": false
+  },
+  {
+   "id": "84782",
+   "isValid": "",
+   "phrase": "Ich habe mehr als Dreimal geschrien, als der Fallschirm nicht auf ging",
+   "x": false
+  },
+  {
+   "id": "84783",
+   "isValid": "",
+   "phrase": "Mama, der Schlüssel zu einer guten Tanzparty ist, kein Schlager zu spielen",
+   "x": false
+  },
+  {
+   "id": "84784",
+   "isValid": "",
+   "phrase": "Süsse und Salzige Snacks sind König und Königin des Küchenschranks",
+   "x": false
+  },
+  {
+   "id": "84785",
+   "isValid": "",
+   "phrase": "Mein Gehirn ist voll mit Flüssigkeit, die wie Fleischwolkenzeugs ist",
+   "x": false
+  },
+  {
+   "id": "84787",
+   "isValid": "",
+   "phrase": "Viele Austern machen Perlen. Manche Chips für Spielautomaten",
+   "x": false
+  },
+  {
+   "id": "84788",
+   "isValid": "",
+   "phrase": "Ich verlasse das Haus mit nichts als einer Dose bleifreiem Benzin und einem Sack Hühnerschnitzel",
+   "x": false
+  },
+  {
+   "id": "84789",
+   "isValid": "",
+   "phrase": "Es ist hart für Eltern die Kontrolle über die Schwimmbad-Erfahrung zu verlieren",
+   "x": false
+  },
+  {
+   "id": "84790",
+   "isValid": "",
+   "phrase": "Sie können mich nicht operieren, ich kämpfe zu stark gegen die Narkose",
+   "x": false
+  },
+  {
+   "id": "84791",
+   "isValid": "",
+   "phrase": "Spülbecken verstopfen, wenn sie nicht glücklich sind",
+   "x": false
+  },
+  {
+   "id": "84792",
+   "isValid": "",
+   "phrase": "Meine liebste Erinnerung sind Dinosaurier aus einem Traum den ich mal hatte",
+   "x": false
+  },
+  {
+   "id": "84793",
+   "isValid": "",
+   "phrase": "Du musst deine Rollos jede Woche entstauben, sonst schreien die Mäuse",
+   "x": false
+  },
+  {
+   "id": "84794",
+   "isValid": "",
+   "phrase": "Der Butler hats geschafft! Er hat sein Studium als Handwerker! Kluger Kerl",
+   "x": false
+  },
+  {
+   "id": "84796",
+   "isValid": "",
+   "phrase": "Dieses Wandbild meines Hundes bewundert sich nicht von selbst, weisst du?",
+   "x": false
+  },
+  {
+   "id": "84797",
+   "isValid": "",
+   "phrase": "Das schlimmste in der Schule waren Schneestürme und die wilden Hunde",
+   "x": false
+  },
+  {
+   "id": "84798",
+   "isValid": "",
+   "phrase": "Es ist kein Tigerkäfig, wenn die Katzen raus und rein können, wie sie wollen",
+   "x": false
+  },
+  {
+   "id": "84799",
+   "isValid": "",
+   "phrase": "Du kannst Liebe nicht erzwingen, aber deine Fast Food Bestellung schon",
+   "x": false
+  },
+  {
+   "id": "84800",
+   "isValid": "",
+   "phrase": "Der Schreibtisch ist antik. Leute haben sich für Jahrhunderte daran geärgert.",
+   "x": false
+  },
+  {
+   "id": "84801",
+   "isValid": "",
+   "phrase": "Wir sagten dem Waschbär er soll nicht Butter und Kabel fressen. Aber hört er auf uns? Nö",
+   "x": false
+  },
+  {
+   "id": "84802",
+   "isValid": "",
+   "phrase": "Eine kaputte Uhr steht zweimal am Tag richtig. Aber ein kaputtes Auto explodiert nur einmal",
+   "x": false
+  },
+  {
+   "id": "84803",
+   "isValid": "",
+   "phrase": "Der beste Rat, den ich je bekommen habe, war, nett zu den Mönchen zu sein, wenn man in ein Kloster geht",
+   "x": false
+  },
+  {
+   "id": "84804",
+   "isValid": "",
+   "phrase": "Jeder Satz ist ein toller Salat aus Worten. Und die Satzzeichen sind die Knabbereien dazu!!!",
+   "x": false
+  },
+  {
+   "id": "84805",
+   "isValid": "",
+   "phrase": "Das schlimmste Ölgemälde ist einfach nur Ketchup und Senf",
+   "x": false
+  },
+  {
+   "id": "84806",
+   "isValid": "",
+   "phrase": "Mein Held ist Rihanna, weil die hat glaube ich die Glühbirne erfunden",
+   "x": false
+  },
+  {
+   "id": "84807",
+   "isValid": "",
+   "phrase": "Hexer haben keine Warzen und Zauberstäbe. Die haben Investment-Portfolios.",
+   "x": false
+  },
+  {
+   "id": "84808",
+   "isValid": "",
+   "phrase": "Kommt her Kinder und ich erzähle euch eine Geschichte eines populären Raubüberfall-Actionfilmes.",
+   "x": false
+  },
+  {
+   "id": "84809",
+   "isValid": "",
+   "phrase": "Wenn dein Glas schmutzig wird, musst du damit rumfuchteln, bis es sauber ist",
+   "x": false
+  },
+  {
+   "id": "84810",
+   "isValid": "",
+   "phrase": "Ich kann nicht schlafen, meine Testversion läuft bald ab!!!",
+   "x": false
+  },
+  {
+   "id": "84811",
+   "isValid": "",
+   "phrase": "Es ist normal im Drogeriemarkt zu weinen. Die Mitarbeiter können so gemein sein!",
+   "x": false
+  },
+  {
+   "id": "84812",
+   "isValid": "",
+   "phrase": "Ich liebe es Post zu bekommen! Das erinnert mich daran, dass ich noch lebe",
+   "x": false
+  },
+  {
+   "id": "84813",
+   "isValid": "",
+   "phrase": "Du kannst so viel Heavy Metal spielen, wie du willst, ich entspanne mich nicht!",
+   "x": false
+  }
+ ]
+}
